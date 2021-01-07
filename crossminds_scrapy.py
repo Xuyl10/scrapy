@@ -12,9 +12,9 @@ class crossminds_scrapy():
             response = requests.get(url,  headers={'User-Agent': crossminds_config.user_agent})
             response.raise_for_status()   # 如果返回的状态码不是200， 则抛出异常;
             response.encoding = response.apparent_encoding  # 判断网页的编码格式， 便于respons.content知道如何解码;
-        except exceptions.Timeout as e:
+        except exceptions.Timeout:
             print('请求超时' )
-        except exceptions.HTTPError as e:
+        except exceptions.HTTPError:
             print('http请求错误')
         else:
             return  response.content
@@ -24,9 +24,9 @@ class crossminds_scrapy():
             response = requests.post(url=url, data=data, headers={'Content-Type':'application/json'})
             response.raise_for_status()   # 如果返回的状态码不是200， 则抛出异常;
             response.encoding = response.apparent_encoding  # 判断网页的编码格式， 便于respons.content知道如何解码;
-        except exceptions.Timeout as e:
+        except exceptions.Timeout:
             print('请求超时')
-        except exceptions.HTTPError as e:
+        except exceptions.HTTPError:
             print('http请求错误')
         else:
             return  response.content
