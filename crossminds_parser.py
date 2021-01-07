@@ -7,18 +7,16 @@ from bs4 import BeautifulSoup
 import re
 
 class crossminds_parser:
-
     def parse_title(self,item):
         #todo:title处理 不同会议的怎么处理
         raw_title = item["title"]
-        # title = raw_title.split(']')[-1].strip()
         return raw_title
 
     def parse_author(self,item):
-        #todo:
         # authors从description里找 没有的话再直接用json中的author字段
-
-        return item["author"]["name"]
+        # authors部分比起摘要变化太多了，正则表达式实在不会写了，就直接用json中的字段吧
+        authors = item["author"]["name"]
+        return authors
 
     def parse_publicationOrg(self,item):
         str = ' '
