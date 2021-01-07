@@ -54,7 +54,7 @@ class crossminds_parser:
         string = item["description"]
         # print("description: \n", string)
         urls = re.findall('https?://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]', string)
-        print("urls: ", urls)
+        # print("urls: ", urls)
         for url in urls:
             if "github" in url:
                 rawcodeurl = url
@@ -77,11 +77,22 @@ class crossminds_parser:
     def parse_abstract(self,item):
         #预计从description中解析，先判断有无abstract字样，有的话根据回车提取？maybe
         description = item["description"]
+        # print(description)
+        abstract = ''
         if re.search('abstract', description, re.IGNORECASE) is not None:
-            
-            pass
+            result = re.findall('(?i)abstract.*\n*.*\n*',description)
+            # print("result: \n",result)
+            result = re.sub('(?i)abstract[^(a-z|A-Z|0-9)]*','',result[0])
+            result = re.sub('\n.*','',result)
+            result = result.strip()
+            if result!='' and result[-1]=='\"':
+                result = result[:-1]
+            # print("result: \n",result)
+            if len(result)>100:
+                abstract = result
+            return abstract
         else:
-            return ''
+            return abstract
 
     def parser(self, items):
         json_results = []
