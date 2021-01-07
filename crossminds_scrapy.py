@@ -47,6 +47,7 @@ class crossminds_scrapy():
         categories = self.get_categaries()
         items = []
         for category in tqdm(categories):
+            # if category == "CVPR 2020":
             data = {'search': {'category': category},'limit': crossminds_config.request_num, 'offset': 0}
             result = self.post_content(url,json.dumps(data)).decode()
             items.append(result)

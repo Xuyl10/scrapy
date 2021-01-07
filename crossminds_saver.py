@@ -11,8 +11,12 @@ class crossminds_saver:
     def savePaperInfo(self, paperInfo):
         db =self.connection[self.database]
         col = db[self.collection]
-        # 检查标题重复
+        # 使用标题和pdfurl来判断冗余
+        if (col.find_one({"_id": paperInfo["_id"]}) != None):
+            return
         if (col.find_one({"title": paperInfo["title"]}) != None):
+            return
+        if (col.find_one({"pdfUrl": paperInfo["pdfUrl"]})!= None and paperInfo["pdfUrl"]!=''):
             return
         col.insert_one(paperInfo)
 
