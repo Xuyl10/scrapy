@@ -70,16 +70,28 @@ class crossminds_parser:
     def parse_url(self, item):
         rawpdfurl = ''
         rawcodeurl = ''
+        pdfurl1 = ''
+        codeurl1 = ''
+        pdfurl2 = ''
+        codeurl2 = ''
         # 从网页中解析出url
         try:
-            rawpdfurl, rawcodeurl = self.parseurl_fromweb(item)
+            pdfurl1, codeurl1 = self.parseurl_fromweb(item)
         except Exception:
             print("url解析错误")
         # 从description中解析
         try:
-            rawpdfurl, rawcodeurl = self.parseurl_fromdescription(item)
+            pdfurl2, codeurl2 = self.parseurl_fromdescription(item)
         except Exception:
             print("url解析错误")
+        if pdfurl1 != '':
+            rawpdfurl = pdfurl1
+        else:
+            rawpdfurl = pdfurl2
+        if codeurl1 != '':
+            rawcodeurl = codeurl1
+        else:
+            rawcodeurl = codeurl2
         # 处理得到的url
         pdfurl = ''
         codeurl = ''
