@@ -15,13 +15,16 @@ class crossminds_parser:
     def parse_author(self, item, rawpdfurl):
         authors = ''
         if 'arxiv.org/abs' in rawpdfurl:
-            result = crossminds_scrapy().get_content(rawpdfurl).decode()
-            soup = BeautifulSoup(result, 'lxml')
-            div = soup.find('div', class_='authors')
-            a = div.find_all('a')
-            for i in a:
-                authors += i.get_text()+','
-            authors = authors[:-1]
+            try:
+                result = crossminds_scrapy().get_content(rawpdfurl).decode()
+                soup = BeautifulSoup(result, 'lxml')
+                div = soup.find('div', class_='authors')
+                a = div.find_all('a')
+                for i in a:
+                    authors += i.get_text()+','
+                authors = authors[:-1]
+            except Exception:
+                print("parse_author error")
         # authors从description里找 没有的话再直接用json中的author字段
         # authors部分比起摘要变化太多了，正则表达式实在不会写了，就直接用json中的字段吧
         if authors == '' or authors is None:
@@ -148,10 +151,10 @@ class crossminds_parser:
 
     def parse_abstract(self, item, rawpdfurl):
         abstract = ''
-        # try:
-        abstract = self.parse_abstractfromrawpdf(item, rawpdfurl)
-        # except Exception:
-        #     print("parse_abstractfromrawpdf error")
+        try:
+            abstract = self.parse_abstractfromrawpdf(item, rawpdfurl)
+        except Exception:
+            print("parse_abstractfromrawpdf error")
         if abstract == '' or abstract is None:
             try:
                 abstract = self.parse_abstractfromcurpage(item)
@@ -209,4 +212,4 @@ class crossminds_parser:
             print("publicationUrl: ", publicationurl)
             print("codeurl: ", codeurl)
 
-            # crossminds_saver().save_paperinfo(paperinfo)
+            crossminds_saver().save_paperinfo(paperinfo)

@@ -48,6 +48,7 @@ class crossminds_scrapy:
         categories = self.get_categaries()
         items = []
         for category in tqdm(categories):
+            # if category not in ['CVPR 2020', 'CoRL 2020', 'EMNLP 2020']:
             data = {
                 'search': {
                     'category': category
