@@ -12,10 +12,20 @@ class crossminds_parser:
         raw_title = item["title"]
         return raw_title
 
-    def parse_author(self, item):
+    def parse_author(self, item, rawpdfurl):
+        authors = ''
+        if 'arxiv.org/abs' in rawpdfurl:
+            result = crossminds_scrapy().get_content(rawpdfurl).decode()
+            soup = BeautifulSoup(result, 'lxml')
+            div = soup.find('div', class_='authors')
+            a = div.find_all('a')
+            for i in a:
+                authors += i.get_text()+','
+            authors = authors[:-1]
         # authors从description里找 没有的话再直接用json中的author字段
         # authors部分比起摘要变化太多了，正则表达式实在不会写了，就直接用json中的字段吧
-        authors = item["author"]["name"]
+        if authors == '' or authors is None:
+            authors = item["author"]["name"]
         return authors
 
     def parse_publicationorg(self, item):
@@ -103,14 +113,17 @@ class crossminds_parser:
         return rawpdfurl, pdfurl, codeurl
 
     def parse_abstractfromrawpdf(self, item, rawpdfurl):
-        if '/arxiv.org/abs' in rawpdfurl:
+        # print("rawpdfurl:", rawpdfurl)
+        if 'arxiv.org/abs' in rawpdfurl:
             # 如果返回的pdfurl是arxiv的，可以从arxiv中解析abstract
             abstract = ''
             result = crossminds_scrapy().get_content(rawpdfurl).decode()
             soup = BeautifulSoup(result, 'lxml')
             blockquotes = soup.find('blockquote', class_="abstract mathjax")
+            # print(blockquotes)
             if blockquotes is not None:
-                abstract = blockquotes.content[2]
+                abstract = blockquotes.contents[2].strip()
+                # print(abstract)
             return abstract
 
     def parse_abstractfromcurpage(self, item):
@@ -135,10 +148,10 @@ class crossminds_parser:
 
     def parse_abstract(self, item, rawpdfurl):
         abstract = ''
-        try:
-            abstract = self.parse_abstractfromrawpdf(item, rawpdfurl)
-        except Exception:
-            print("parse_abstractfromrawpdf error")
+        # try:
+        abstract = self.parse_abstractfromrawpdf(item, rawpdfurl)
+        # except Exception:
+        #     print("parse_abstractfromrawpdf error")
         if abstract == '' or abstract is None:
             try:
                 abstract = self.parse_abstractfromcurpage(item)
@@ -157,12 +170,12 @@ class crossminds_parser:
             videourl = item["video_url"]
             year = item["created_at"][0:4]
             publicationorg = self.parse_publicationorg(item)
-            authors = self.parse_author(item)
             rawpdfurl, pdfurl, codeurl = self.parse_url(item)
             dataseturl = ''
             videopath = ''
             pdfpath = ''
             abstract = self.parse_abstract(item, rawpdfurl)
+            authors = self.parse_author(item, rawpdfurl)
             publicationurl = ''
             _id = item["_id"]
 
