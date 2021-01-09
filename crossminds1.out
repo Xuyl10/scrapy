@@ -1,0 +1,5973 @@
+nohup: ignoring input
+['CVPR 2020', 'CoRL 2020', 'EMNLP 2020', 'NeurIPS 2020', 'ACL 2020', 'BMVC 2020', 'CIKM 2020', 'CVPR 2019', 'ECAI 2020', 'ECCV 2020', 'GOTO Conference', 'GTC 2020', 'Hot Chips 2020', 'ICALP 2020', 'ICCV 2019', 'ICML 2020', 'ICRA 2020', 'MICCAI 2020', 'NeurIPS 2019', 'PODC 2020', 'POPL 2020', 'RecSys 2020', 'SAIL 2020', 'SIGGRAPH 2020', 'SIGIR 2020', 'SPAA 2020', 'STOC 2020', 'WACV 2021']
+
+  0%|          | 0/28 [00:00<?, ?it/s]
+  4%|▎         | 1/28 [00:16<07:27, 16.58s/it]
+  7%|▋         | 2/28 [00:26<06:20, 14.64s/it]
+ 11%|█         | 3/28 [00:28<04:33, 10.93s/it]
+ 14%|█▍        | 4/28 [00:35<03:47,  9.49s/it]
+ 18%|█▊        | 5/28 [00:37<02:47,  7.27s/it]
+ 21%|██▏       | 6/28 [00:40<02:14,  6.14s/it]
+ 25%|██▌       | 7/28 [00:42<01:43,  4.92s/it]
+ 29%|██▊       | 8/28 [00:46<01:29,  4.48s/it]
+ 32%|███▏      | 9/28 [00:47<01:05,  3.44s/it]
+ 36%|███▌      | 10/28 [00:53<01:18,  4.36s/it]
+ 39%|███▉      | 11/28 [00:56<01:03,  3.74s/it]
+ 43%|████▎     | 12/28 [00:57<00:47,  2.97s/it]
+ 46%|████▋     | 13/28 [00:58<00:35,  2.39s/it]
+ 50%|█████     | 14/28 [01:09<01:12,  5.19s/it]
+ 54%|█████▎    | 15/28 [01:11<00:52,  4.03s/it]
+ 57%|█████▋    | 16/28 [01:13<00:41,  3.48s/it]
+ 61%|██████    | 17/28 [01:17<00:38,  3.50s/it]
+ 64%|██████▍   | 18/28 [01:21<00:36,  3.67s/it]
+ 68%|██████▊   | 19/28 [01:23<00:29,  3.25s/it]
+ 71%|███████▏  | 20/28 [01:25<00:24,  3.03s/it]
+ 75%|███████▌  | 21/28 [01:29<00:22,  3.21s/it]
+ 79%|███████▊  | 22/28 [01:33<00:20,  3.34s/it]
+ 82%|████████▏ | 23/28 [01:34<00:13,  2.63s/it]
+ 86%|████████▌ | 24/28 [01:36<00:10,  2.53s/it]
+ 89%|████████▉ | 25/28 [01:37<00:06,  2.12s/it]
+ 93%|█████████▎| 26/28 [01:42<00:05,  2.90s/it]
+ 96%|█████████▋| 27/28 [01:49<00:04,  4.19s/it]
+100%|██████████| 28/28 [01:50<00:00,  3.21s/it]
+100%|██████████| 28/28 [01:50<00:00,  3.95s/it]
+
+  0%|          | 0/3374 [00:00<?, ?it/s]id:  5f6bf4031dc9eff099d892c7
+title:  [CVPR 2020 Award Nominee] Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacti...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/6FFBJVV4dAA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 1/3374 [00:02<2:08:16,  2.28s/it]id:  5f6bf6411dc9eff099d892c9
+title:  [CVPR 2020 Award Nominee] Bridging the Gap Between Anchor-Based and Anchor-Free Detection via Adaptive Training Sample Sele...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.02424.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/CnchEvVhI3c
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/sfzhang15/ATSS
+save successfully!
+
+  0%|          | 2/3374 [00:04<2:07:56,  2.28s/it]id:  5f6bf65b1dc9eff099d892cb
+title:  [CVPR 2020 Award Nominee] Momentum Contrast for Unsupervised Visual Representation Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.05722.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4VVGtYPM8JE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 3/3374 [00:06<2:04:23,  2.21s/it]id:  5f6bfbad1dc9eff099d892cd
+title:  [CVPR 2020 Award Nominee] Disentangled Image Generation Through Structured Noise Injection
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.12411.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/vM8kpVr6UQY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 4/3374 [00:08<2:04:59,  2.23s/it]id:  5f6bfbc41dc9eff099d892cf
+title:  [CVPR 2020 Award Nominee] UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.05763.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/HRaxIwDfZSk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 5/3374 [00:10<2:02:36,  2.18s/it]id:  5f6bfc041dc9eff099d892d1
+title:  [CVPR 2020 Award Nominee] TextureFusion: High-Quality Texture Acquisition for Real-Time RGB-D Scanning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/VnqaqkSgAQg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 6/3374 [00:12<1:58:37,  2.11s/it]id:  5f6bfc191dc9eff099d892d3
+title:  [CVPR 2020 Award Nominee] Controllable Orthogonalization in Training DNNs
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.00917.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/mtmgzGsZt14
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 7/3374 [00:14<1:57:02,  2.09s/it]id:  5f6bfc2f1dc9eff099d892d5
+title:  [CVPR 2020 Award Nominee] Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.12212.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/jUIGpWFybJs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 8/3374 [00:17<1:56:59,  2.09s/it]id:  5f6bfc411dc9eff099d892d7
+title:  [CVPR 2020 Award Nominee] Transferring Cross-Domain Knowledge for Video Sign Language Recognition
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.03703.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/gd5cLb2re-0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 9/3374 [00:19<1:59:35,  2.13s/it]id:  5f6bfc6b1dc9eff099d892db
+title:  [CVPR 2020 Award Nominee] CvxNet: Learnable Convex Decomposition
+authors:  ComputerVisionFoundation Videos
+abstract:  away from the topology of the geometry they need to represent. However, at testing time, convexes can also generate explicit representations - polygonal meshes - which can then be used in any downstream application. We introduce a network architecture to represent a low dimensional family of convexes. This family is automatically derived via an auto-encoding process. We investigate the applications of this architecture including automatic convex decomposition, image to 3D reconstruction, and part-based shape retrieval.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1909.05736.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/dfWWtwE8PEo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 10/3374 [00:21<1:55:09,  2.05s/it]id:  5f6bfc981dc9eff099d892dd
+title:  [CVPR 2020 Award Nominee] The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.07135.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/_g-oXYMhz4M
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 11/3374 [00:23<1:53:20,  2.02s/it]id:  5f6bfcbf1dc9eff099d892df
+title:  [CVPR 2020 Award Nominee] High-Performance Long-Term Tracking With Meta-Updater
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.00305.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0wgL79ZvXi4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/Daikenan/LTMU
+save successfully!
+
+  0%|          | 12/3374 [00:25<1:52:26,  2.01s/it]id:  5f6bfcd91dc9eff099d892e1
+title:  [CVPR 2020 Award Nominee] Deep Iterative Surface Normal Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1904.07172.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/DtlK_h-7Ja8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 13/3374 [00:27<1:52:57,  2.02s/it]id:  5f6bfced1dc9eff099d892e3
+title:  [CVPR 2020 Award Nominee] Predicting Goal-Directed Human Attention Using Inverse Reinforcement Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2005.14310.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Oa2GKJh4zbA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 14/3374 [00:29<1:55:53,  2.07s/it]id:  5f6bfd011dc9eff099d892e5
+title:  [CVPR 2020 Award Nominee] Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.04573.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/t2qpBg9neUc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://gberta.github.io/maskprop/
+save successfully!
+
+  0%|          | 15/3374 [00:31<1:54:06,  2.04s/it]id:  5f6bfd211dc9eff099d892e7
+title:  [CVPR 2020 Award Nominee] Robust Learning Through Cross-Task Consistency
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2006.04096.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/XOUf4rN4kUg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  0%|          | 16/3374 [00:33<1:57:12,  2.09s/it]id:  5f6bfd351dc9eff099d892e9
+title:  [CVPR 2020 Award Nominee] Deep Geometric Functional Maps: Robust Feature Learning for Shape Correspondence
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.14286.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/_K15Gg7MNTY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/LIX-shape-analysis/GeomFmaps
+save successfully!
+
+  1%|          | 17/3374 [00:35<1:55:16,  2.06s/it]id:  5f6bfd4a1dc9eff099d892eb
+title:  [CVPR 2020 Award Nominee] Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.01946.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Z-CnbBBBQHU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 18/3374 [00:37<1:55:06,  2.06s/it]id:  5f6bfd5a1dc9eff099d892ed
+title:  [CVPR 2020 Award Nominee] Cross-Batch Memory for Embedding Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.06798.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/SDKDSvv9oTk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 19/3374 [00:39<1:53:49,  2.04s/it]id:  5f6bfd7f1dc9eff099d892ef
+title:  [CVPR 2020 Award Nominee] Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.00157.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/r0CjykCZnlk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 20/3374 [00:41<1:53:57,  2.04s/it]id:  5ee5bf7eb1267e24b0ec215f
+title:  [CVPR 2020 Award Nominee] Optimizing Rank-based Metrics with Blackbox Differentiation - 5 minute oral
+authors:  Georg Martius
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.03500.pdf
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/UtOG3utfd5s
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 21/3374 [00:43<1:53:06,  2.02s/it]id:  5fc9b27532b2bd365cb4a37a
+title:  Adversarial Latent Autoencoders
+authors:  Stanislav Pidhorskyi
+abstract:  Autoencoder networks are unsupervised approaches aiming at combining generative and representational properties by learning simultaneously an encoder-generator map. Although studied extensively, the issues of whether they have the same generative power of GANs, or learn disentangled representations, have not been fully addressed. We introduce an autoencoder that tackles these issues jointly, which we call Adversarial Latent Autoencoder (ALAE). It is a general architecture that can leverage recent improvements on GAN training procedures. We designed two autoencoders: one based on a MLP encoder, and another based on a StyleGAN generator, which we call StyleALAE. We verify the disentanglement properties of both architectures. We show that StyleALAE can not only generate 1024x1024 face images with comparable quality of StyleGAN, but at the same resolution can also produce face reconstructions and manipulations based on real images. This makes ALAE the first autoencoder able to compare with, and go beyond the capabilities of a generator-only type of architecture.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.04467.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fc9b27532b2bd365cb4a37a-1607053949953/hls-5fc9b27532b2bd365cb4a37a.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 22/3374 [00:45<1:56:16,  2.08s/it]id:  5fc9afbf32b2bd365cb4a379
+title:  GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences
+authors:  Prune Truong
+abstract:  Establishing dense correspondences between a pair of images is an important and general problem, covering geometric matching, optical flow and semantic correspondences. While these applications share fundamental challenges, such as large displacements, pixel-accuracy, and appearance changes, they are currently addressed with specialized network architectures, designed for only one particular task. This severely limits the generalization capabilities of such networks to new scenarios, where e.g. robustness to larger displacements or higher accuracy is required.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.05524.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fc9afbf32b2bd365cb4a379-1607053265996/hls-5fc9afbf32b2bd365cb4a379.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 23/3374 [00:49<2:26:32,  2.62s/it]id:  5fc9ade232b2bd365cb4a378
+title:  G-TAD: Sub-Graph Localization for Temporal Action Detection
+authors:  Mengmeng Xu
+abstract:  Temporal action detection is a fundamental yet challenging task in video understanding. Video context is a critical cue to effectively detect actions, but current works mainly focus on temporal context, while neglecting semantic context as well as other important context properties. In this work, we propose a graph convolutional network (GCN) model to adaptively incorporate multi-level semantic context into video features and cast temporal action detection as a sub-graph localization problem. Specifically, we formulate video snippets as graph nodes, snippet-snippet correlations as edges, and actions associated with context as target sub-graphs. With graph convolution as the basic operation, we design a GCN block called GCNeXt, which learns the features of each node by aggregating its context and dynamically updates the edges in the graph. To localize each sub-graph, we also design an SGAlign layer to embed each sub-graph into the Euclidean space. Extensive experiments show that G-TAD is capable of finding effective video context without extra supervision and achieves state-of-the-art performance on two detection benchmarks. On ActivityNet-1.3, it obtains an average mAP of 34.09%; on THUMOS14, it reaches 51.6% at IoU@0.5 when combined with a proposal processing method.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.11462.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fc9ade232b2bd365cb4a378-1607052785912/hls-5fc9ade232b2bd365cb4a378.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 24/3374 [00:51<2:19:16,  2.49s/it]id:  5fb8691f873bef099fd89134
+title:  TBT: Targeted Neural Network Attack With Bit Trojan
+authors:  Adnan Rakin
+abstract:  ecurity of modern Deep Neural Networks (DNNs) is under severe scrutiny as the deployment of these models become widespread in many intelligence-based applications. Most recently, DNNs are attacked through Trojan which can effectively infect the model during the training phase and get activated only through specific input patterns (i.e, trigger) during inference. In this work, for the first time, we propose a novel Targeted Bit Trojan(TBT) method, which can insert a targeted neural Trojan into a DNN through the bit-flip attack. Our algorithm efficiently generates a trigger specifically designed to locate certain vulnerable bits of DNN weights stored in main memory (i.e., DRAM). The objective is that once the attacker flips these vulnerable bits, the network still operates with normal inference accuracy with benign input. However, when the attacker activates the trigger by embedding it with any input, the network is forced to classify all inputs to a certain target class. We demonstrate that flipping only several vulnerable bits identified by our method, using available bit-flip techniques (i.e, row-hammer), can transform a fully functional DNN model into a Trojan-infected model. We perform extensive experiments of CIFAR-10, SVHN and ImageNet datasets on both VGG-16 and Resnet-18 architectures. Our proposed TBT could classify 92 % of test images to a target class with as little as 84 bit-flips out of 88 million weight bits on Resnet-18 for CIFAR10 dataset.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1909.05193.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fb8691f873bef099fd89134-1605921068185/hls-5fb8691f873bef099fd89134.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 25/3374 [00:53<2:13:42,  2.40s/it]id:  5fb8679a6255f25b0db868e0
+title:  PolyTransform: Deep Polygon Transformer for Instance Segmentation
+authors:  Justin Liang
+abstract:  In this paper, we propose PolyTransform, a novel instance segmentation algorithm that produces precise, geometry-preserving masks by combining the strengths of prevailing segmentation approaches and modern polygon-based methods. In particular, we first exploit a segmentation network to generate instance masks. We then convert the masks into a set of polygons that are then fed to a deforming network that transforms the polygons such that they better fit the object boundaries. Our experiments on the challenging Cityscapes dataset show that our PolyTransform significantly improves the performance of the backbone instance segmentation network and ranks 1st on the Cityscapes test-set leaderboard. We also show impressive gains in the interactive annotation setting.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.02801.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fb8679a6255f25b0db868e0-1605920681837/hls-5fb8679a6255f25b0db868e0.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 26/3374 [00:56<2:07:30,  2.29s/it]id:  5fb5f14c620b3c4fbbf0ba03
+title:  Multi-Scale Interactive Network for Salient Object Detection
+authors:  Youwei Pang
+abstract:  Deep-learning based salient object detection methods achieve great progress. However, the variable scale and unknown category of salient objects are great challenges all the time. These are closely related to the utilization of multi-level and multi-scale features. In this paper, we propose the aggregate interaction modules to integrate the features from adjacent levels, in which less noise is introduced because of only using small up-/down-sampling rates. To obtain more efficient multi-scale features from the integrated features, the self-interaction modules are embedded in each decoder unit. Besides, the class imbalance issue caused by the scale variation weakens the effect of the binary cross entropy loss and results in the spatial inconsistency of the predictions. Therefore, we exploit the consistency-enhanced loss to highlight the fore-/back-ground difference and preserve the intra-class consistency. Experimental results on five benchmark datasets demonstrate that the proposed method without any post-processing performs favorably against 23 state-of-the-art approaches.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fb5f14c620b3c4fbbf0ba03-1605759320314/hls-5fb5f14c620b3c4fbbf0ba03.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/lartpang/MINet
+save successfully!
+
+  1%|          | 27/3374 [00:58<2:04:27,  2.23s/it]id:  5fb5e8a5b4a088136ddfb12c
+title:  Understanding Adversarial Examples From the Mutual Influence of Images and Perturbations
+authors:  Chaoning Zhang
+abstract:  A wide variety of works have explored the reason for the existence of adversarial examples, but there is no consensus on the explanation. We propose to treat the DNN logits as a vector for feature representation, and exploit them to analyze the mutual influence of two independent inputs based on the Pearson correlation coefficient (PCC). We utilize this vector representation to understand adversarial examples by disentangling the clean images and adversarial perturbations, and analyze their influence on each other. Our results suggest a new perspective towards the relationship between images and universal perturbations: Universal perturbations contain dominant features, and images behave like noise to them. This feature perspective leads to a new method for generating targeted universal adversarial perturbations using random source images. We are the first to achieve the challenging task of a targeted universal attack without utilizing original training data. Our approach using a proxy dataset achieves comparable performance to the state-of-the-art baselines which utilize the original training dataset.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2007.06189.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fb5e8a5b4a088136ddfb12c-1605757107659/hls-5fb5e8a5b4a088136ddfb12c.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 28/3374 [01:00<2:04:57,  2.24s/it]id:  5fb30a3657be5906af4767c3
+title:  Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks
+authors:  Fengda Zhu
+abstract:  Vision-Language Navigation (VLN) is a task where agents learn to navigate following natural language instructions. The key to this task is to perceive both the visual scene and natural language sequentially. Conventional approaches exploit the vision and language features in cross-modal grounding. However, the VLN task remains challenging, since previous works have neglected the rich semantic information contained in the environment (such as implicit navigation graphs or sub-trajectory semantics). In this paper, we introduce Auxiliary Reasoning Navigation (AuxRN), a framework with four self-supervised auxiliary reasoning tasks to take advantage of the additional training signals derived from the semantic information. The auxiliary tasks have four reasoning objectives: explaining the previous actions, estimating the navigation progress, predicting the next orientation, and evaluating the trajectory consistency. As a result, these additional training signals help the agent to acquire knowledge of semantic representations in order to reason about its activity and build a thorough perception of the environment. Our experiments indicate that auxiliary reasoning tasks improve both the performance of the main task and the model generalizability by a large margin. Empirically, we demonstrate that an agent trained with self-supervised auxiliary reasoning tasks substantially outperforms the previous state-of-the-art method, being the best existing approach on the standard benchmark.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.07883.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fb30a3657be5906af4767c3-1605569098862/hls-5fb30a3657be5906af4767c3.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 29/3374 [01:02<2:03:36,  2.22s/it]id:  5faacc238d3d32d3df66c62f
+title:  SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization
+authors:  Yue Jiang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.07109.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faacc238d3d32d3df66c62f-1605028924571/hls-5faacc238d3d32d3df66c62f.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 30/3374 [01:04<1:59:58,  2.15s/it]id:  5faae1cee4d4313144af915b
+title:  Hierarchical Conditional Relation Networks for Video Question Answering
+authors:  Thao Minh Le
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.10698.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faae1cee4d4313144af915b-1605034468780/hls-5faae1cee4d4313144af915b.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 31/3374 [01:06<1:59:41,  2.15s/it]id:  5faa0bd8952f54044ed26c19
+title:  4D Visualization of Dynamic Events From Unconstrained Multi-View Videos
+authors:  Aayush Bansal
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa0bd8952f54044ed26c19-1604979706114/hls-5faa0bd8952f54044ed26c19.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 32/3374 [01:08<1:57:31,  2.11s/it]id:  5faf26c418656e0a4edac667
+title:  Searching Central Difference Convolutional Networks for Face Anti-Spoofing
+authors:  Zitong Yu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faf26c418656e0a4edac667-1605314277599/hls-5faf26c418656e0a4edac667.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 33/3374 [01:10<1:57:11,  2.10s/it]id:  5faf23f1813f63bf087d8e12
+title:  Set-Constrained Viterbi for Set-Supervised Action Segmentation
+authors:  Jun Li
+abstract:  This paper is about weakly supervised action segmentation, where the ground truth specifies only a set of actions present in a training video, but not their true temporal ordering. Prior work typically uses a classifier that independently labels video frames for generating the pseudo ground truth, and multiple instance learning for training the classifier. We extend this framework by specifying an HMM, which accounts for co-occurrences of action classes and their temporal lengths, and by explicitly training the HMM on a Viterbi-based loss. Our first contribution is the formulation of a new set-constrained Viterbi algorithm (SCV). Given a video, the SCV generates the MAP action segmentation that satisfies the ground truth. This prediction is used as a framewise pseudo ground truth in our HMM training. Our second contribution in training is a new regularization of feature affinities between training videos that share the same action classes. Evaluation on action segmentation and alignment on the Breakfast, MPII Cooking2, Hollywood Extended datasets demonstrates our significant performance improvement for the two tasks over prior work.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.11925.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faf23f1813f63bf087d8e12-1605313534342/hls-5faf23f1813f63bf087d8e12.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 34/3374 [01:13<2:03:40,  2.22s/it]id:  5fa9e79ea1025066c24d6ffc
+title:  A Programmatic and Semantic Approach to Explaining and DebuggingNeural Network Based Object Detectors
+authors:  Edward Kim
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.00289.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e79ea1025066c24d6ffc-1604970420885/hls-5fa9e79ea1025066c24d6ffc.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 35/3374 [01:15<1:58:24,  2.13s/it]id:  5faf2093f1baf4bffa4f9f29
+title:  EPOS: Estimating 6D Pose of Objects with Symmetries
+authors:  Tomas Hodan
+abstract:  We present a new method for estimating the 6D pose of rigid objects with available 3D models from a single RGB input image. The method is applicable to a broad range of objects, including challenging ones with global or partial symmetries. An object is represented by compact surface fragments which allow handling symmetries in a systematic manner. Correspondences between densely sampled pixels and the fragments are predicted using an encoder-decoder network. At each pixel, the network predicts: (i) the probability of each object's presence, (ii) the probability of the fragments given the object's presence, and (iii) the precise 3D location on each fragment. A data-dependent number of corresponding 3D locations is selected per pixel, and poses of possibly multiple object instances are estimated using a robust and efficient variant of the PnP-RANSAC algorithm. In the BOP Challenge 2019, the method outperforms all RGB and most RGB-D and D methods on the T-LESS and LM-O datasets. On the YCB-V dataset, it is superior to all competitors, with a large margin over the second-best RGB method.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.00605.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faf2093f1baf4bffa4f9f29-1605312669634/hls-5faf2093f1baf4bffa4f9f29.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 36/3374 [01:22<3:21:02,  3.61s/it]id:  5faf1fa90cab41ba9b0273ce
+title:  Don’t Even Look Once: Synthesizing Features for Zero-Shot Detection
+authors:  Pengkai Zhu
+abstract:  Zero-shot detection, namely, localizing both seen and unseen objects, increasingly gains importance for large-scale applications, with large number of object classes, since, collecting sufficient annotated data with ground truth bounding boxes is simply not scalable. While vanilla deep neural networks deliver high performance for objects available during training, unseen object detection degrades significantly. At a fundamental level, while vanilla detectors are capable of proposing bounding boxes, which include unseen objects, they are often incapable of assigning high-confidence to unseen objects, due to the inherent precision/recall tradeoffs that requires rejecting background objects. We propose a novel detection algorithm Dont Even Look Once (DELO), that synthesizes visual features for unseen objects and augments existing training algorithms to incorporate unseen object detection. Our proposed scheme is evaluated on Pascal VOC and MSCOCO, and we demonstrate significant improvements in test accuracy over vanilla and other state-of-art zero-shot detectors
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.07933.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faf1fa90cab41ba9b0273ce-1605312434923/hls-5faf1fa90cab41ba9b0273ce.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 37/3374 [01:24<2:53:20,  3.12s/it]id:  5faacb2bf20501af96222f96
+title:  Improving Action Segmentation via Graph-Based Temporal Reasoning
+authors:  Yifei Huang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faacb2bf20501af96222f96-1605028663043/hls-5faacb2bf20501af96222f96.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 38/3374 [01:26<2:35:32,  2.80s/it]id:  5faf07cbd8c2c2346af64c0b
+title:  Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation
+authors:  Zhonghao Wang
+abstract:  We consider the problem of unsupervised domain adaptation for semantic segmentation by easing the domain shift between the source domain (synthetic data) and the target domain (real data) in this work. State-of-the-art approaches prove that performing semantic-level alignment is helpful in tackling the domain shift issue. Based on the observation that stuff categories usually share similar appearances across images of different domains while things (i.e. object instances) have much larger differences, we propose to improve the semantic-level alignment with different strategies for stuff regions and for things: 1) for the stuff categories, we generate feature representation for each class and conduct the alignment operation from the target domain to the source domain; 2) for the thing categories, we generate feature representation for each individual instance and encourage the instance in the target domain to align with the most similar one in the source domain. In this way, the individual differences within thing categories will also be considered to alleviate over-alignment. In addition to our proposed method, we further reveal the reason why the current adversarial loss is often unstable in minimizing the distribution discrepancy and show that our method can help ease this issue by minimizing the most similar stuff and instance features between the source and the target domains. We conduct extensive experiments in two unsupervised domain adaptation tasks, i.e. GTA5 to Cityscapes and SYNTHIA to Cityscapes, and achieve the new state-of-the-art segmentation accuracy.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faf07cbd8c2c2346af64c0b-1605306327937/hls-5faf07cbd8c2c2346af64c0b.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 39/3374 [01:28<2:32:02,  2.74s/it]id:  5faaccf873e1b361fd6a1151
+title:  Show, Edit and Tell: A Framework for Editing Image Captions
+authors:  Fawaz Sammani
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faaccf873e1b361fd6a1151-1605029124436/hls-5faaccf873e1b361fd6a1151.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 40/3374 [01:30<2:18:34,  2.49s/it]id:  5faac9fd382c022434757917
+title:  Varicolored Image De-Hazing
+authors:  Akshay Dudhane
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faac9fd382c022434757917-1605028360369/hls-5faac9fd382c022434757917.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 41/3374 [01:32<2:11:13,  2.36s/it]id:  5faf026cd12b2544afecb20a
+title:  DA-cGAN: A Framework for Indoor Radio Design Using a Dimension-Aware Conditional Generative Adversarial Network
+authors:  Chun-Hao Liu
+abstract:  A novel "physics-free" approach of designing indoor radio dot layout for a floor plan is introduced by formulating it as an image-to-image translation problem and solved with customized dimension-aware conditional generative adversarial networks (DA-cGANs). The proposed model generates a desirable radio heatmap and its respective radio dot layout from a given floor plan with wall types, physical dimension, and macro-cell interference, by learning from the accumulated indoor radio designs by human experts. Considering the nature of radio propagation, two new loss functions and a two-stage training strategy are proposed for the generator to learn the right direction of signal propagation and precise dot locations, in addition to a sectional analysis for dealing with large floor plans. Experimental results show that the new model is effectively generating acceptable dot layout designs and that dimension-awareness is a key enabler for this type of prediction.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faf026cd12b2544afecb20a-1605304950665/hls-5faf026cd12b2544afecb20a.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|          | 42/3374 [01:34<2:04:37,  2.24s/it]id:  5fa9d52a8a1378120d965136
+title:  A Multi-Hypothesis Approach to Color Constancy
+authors:  Daniel Hernández
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.12896.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9d52a8a1378120d965136-1604965683584/hls-5fa9d52a8a1378120d965136.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|▏         | 43/3374 [01:36<1:58:56,  2.14s/it]id:  5fa9d6304b3443f259a4a028
+title:  HybridPose: 6D Object Pose Estimation Under Hybrid Representations
+authors:  Chen Song
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2001.01869.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9d6304b3443f259a4a028-1604965946251/hls-5fa9d6304b3443f259a4a028.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|▏         | 44/3374 [01:38<1:54:27,  2.06s/it]id:  5fa9d8614d098d6bae78274e
+title:  ILFO: Adversarial Attack on Adaptive Neural Networks
+authors:  Mirazul Haque
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9d8614d098d6bae78274e-1604966506624/hls-5fa9d8614d098d6bae78274e.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|▏         | 45/3374 [01:40<1:52:50,  2.03s/it]id:  5fa9d98f0d936da76e994b45
+title:  Understanding Human Hands in Contact at Internet Scale
+authors:  nicoleshan1018
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2006.06669.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9d98f0d936da76e994b45-1604966826959/hls-5fa9d98f0d936da76e994b45.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|▏         | 46/3374 [01:42<1:50:53,  2.00s/it]id:  5fa9d9880d936da76e994b44
+title:  Quality Guided Sketch-to-Photo Image Synthesis
+authors:  ucheosahor
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2005.02133.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9d9880d936da76e994b44-1604966828693/hls-5fa9d9880d936da76e994b44.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|▏         | 47/3374 [01:44<1:52:55,  2.04s/it]id:  5fa9dd78cba45e756faea1d1
+title:  Can Weight Sharing Outperform Random Architecture Search? An Investigation With TuNAS
+authors:  Gabriel Bender
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2008.06120.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9dd78cba45e756faea1d1-1604967810346/hls-5fa9dd78cba45e756faea1d1.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|▏         | 48/3374 [01:46<1:53:16,  2.04s/it]id:  5fa9deb66064a3d8bbc140a0
+title:  StructEdit: Learning Structural Shape Variations
+authors:  Kaichun Mo
+abstract:  ion and transfer. Our approach is based on a conditional variational autoencoder for encoding and decoding shape deltas, conditioned on a source shape. We demonstrate the effectiveness and robustness of our approach in multiple shape modification and generation tasks, and provide comparison and ablation studies on the PartNet dataset, one of the largest publicly available 3D datasets.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.11098.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9deb66064a3d8bbc140a0-1604968130541/hls-5fa9deb66064a3d8bbc140a0.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  1%|▏         | 49/3374 [01:48<1:51:08,  2.01s/it]id:  5fa9ea8819ee2d16769c8460
+title:  Transform and Tell: Entity-Aware News Image Captioning
+authors:  Alasdair Tran
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.08070.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9ea8819ee2d16769c8460-1604971157228/hls-5fa9ea8819ee2d16769c8460.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/alasdairtran/transform-and-tell
+save successfully!
+
+  1%|▏         | 50/3374 [01:50<1:49:14,  1.97s/it]id:  5fa9e96c2dcbf6b2bc92e401
+title:  Domain Adaptive Image-to-Image Translation
+authors:  yingcong.ian.chen
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2009.01166.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e96c2dcbf6b2bc92e401-1604970874881/hls-5fa9e96c2dcbf6b2bc92e401.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 51/3374 [01:52<1:50:35,  2.00s/it]id:  5fa9e885e8f5a67b4f28412a
+title:  Composed Query Image Retrieval Using Locally Bounded Features
+authors:  Mehrdad Hosseinzadeh
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e885e8f5a67b4f28412a-1604970639700/hls-5fa9e885e8f5a67b4f28412a.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 52/3374 [01:54<1:48:33,  1.96s/it]id:  5fa9e6e832ae12d9b1287252
+title:  Affinity Graph Supervision for Visual Recognition
+authors:  Chu Wang
+abstract:  ing features from such graphs, while the learning of the affinities themselves has been overlooked. Here we propose a principled method to directly supervise the learning of weights in affinity graphs, to exploit meaningful connections between entities in the data source. Applied to a visual attention network, our affinity supervision improves relationship recovery between objects, even without the use of manually annotated relationship labels. We further show that affinity learning between objects boosts scene categorization performance and that the supervision of affinity can also be applied to graphs built from mini-batches, for neural network training. In an image classification task we demonstrate consistent improvement over the baseline, with diverse network architectures and datasets.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.09049.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e6e832ae12d9b1287252-1604970227192/hls-5fa9e6e832ae12d9b1287252.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 53/3374 [01:56<1:50:51,  2.00s/it]id:  5fa9e632c6630690d38bf4fd
+title:  Grid-GCN for Fast and Scalable Point Cloud Learning
+authors:  Qiangeng Xu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.02984.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e632c6630690d38bf4fd-1604970049464/hls-5fa9e632c6630690d38bf4fd.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 54/3374 [01:58<1:53:55,  2.06s/it]id:  5fa9e4c93744b24d9c71ee42
+title:  ReSprop: Reuse Sparsified Backpropagation
+authors:  Negar Goli
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e4c93744b24d9c71ee42-1604969695527/hls-5fa9e4c93744b24d9c71ee42.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 55/3374 [02:00<1:53:58,  2.06s/it]id:  5fa9e276f1613f16be5d12f6
+title:  Binarizing MobileNet via Evolution-Based Searching
+authors:  Hai Phan
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2005.06305.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e276f1613f16be5d12f6-1604969089313/hls-5fa9e276f1613f16be5d12f6.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 56/3374 [02:02<1:55:34,  2.09s/it]id:  5fa9e0b90d8c876c2b1449da
+title:  Wavelet Synthesis Net for Disparity Estimation to Synthesize DSLR Calibre Bokeh Effect on Smartphones
+authors:  Chenchi Luo
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9e0b90d8c876c2b1449da-1604968648620/hls-5fa9e0b90d8c876c2b1449da.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 57/3374 [02:04<1:54:26,  2.07s/it]id:  5fa9df625401d253379b2de3
+title:  Bayesian Adversarial Human Motion Synthesis
+authors:  Rui Zhao
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9df625401d253379b2de3-1604968314953/hls-5fa9df625401d253379b2de3.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 58/3374 [02:06<1:51:21,  2.02s/it]id:  5fa9eb757d13004924849aab
+title:  Adversarial Examples Improve Image Recognition
+authors:  Cihang Xie
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.09665.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9eb757d13004924849aab-1604971393864/hls-5fa9eb757d13004924849aab.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 59/3374 [02:08<1:49:59,  1.99s/it]id:  5fa9ecc5cda7745dad9b7afc
+title:  Straight to the Point: Fast-Forwarding Videos via Reinforcement Learning Using Textual Data
+authors:  Washington Ramos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.14229.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9ecc5cda7745dad9b7afc-1604971728720/hls-5fa9ecc5cda7745dad9b7afc.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 60/3374 [02:10<1:50:11,  1.99s/it]id:  5fa9ed948db098686a448c38
+title:  Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians
+authors:  Jialian Wu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9ed948db098686a448c38-1604971943802/hls-5fa9ed948db098686a448c38.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 61/3374 [02:12<1:50:05,  1.99s/it]id:  5fa9eec96283055167aada48
+title:  Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline
+authors:  Yu-Lun Liu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.01179.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9eec96283055167aada48-1604972246648/hls-5fa9eec96283055167aada48.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 62/3374 [02:14<1:50:00,  1.99s/it]id:  5fa9ef8cba03e5ee0cba6087
+title:  Deep Non-Line-of-Sight Reconstruction
+authors:  Javier Grau Chopite
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2001.09067.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9ef8cba03e5ee0cba6087-1604972439664/hls-5fa9ef8cba03e5ee0cba6087.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 63/3374 [02:16<1:48:13,  1.96s/it]id:  5fa9f03b9058c30310387ec2
+title:  Investigating Loss Functions for Extreme Super-Resolution
+authors:  Younghyun Jo
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9f03b9058c30310387ec2-1604972615234/hls-5fa9f03b9058c30310387ec2.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/kingsj0405/ciplab-NTIRE-2020
+save successfully!
+
+  2%|▏         | 64/3374 [02:18<1:48:14,  1.96s/it]id:  5fa9f16a7e21285f2871f27a
+title:  D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features
+authors:  Xuyang Bai
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.03164.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9f16a7e21285f2871f27a-1604972928017/hls-5fa9f16a7e21285f2871f27a.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 65/3374 [02:20<1:47:27,  1.95s/it]id:  5fa9f20ea2acb1385d512d19
+title:  “Looking at the Right Stuff” – Guided Semantic-Gaze for Autonomous Driving
+authors:  Anwesan Pal
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.10455.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9f20ea2acb1385d512d19-1604973082360/hls-5fa9f20ea2acb1385d512d19.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 66/3374 [02:22<1:48:49,  1.97s/it]id:  5fa9f2cb1744ff3a32269510
+title:  FoNet: A Memory-Efficient Fourier-Based Orthogonal Network for Object Recognition
+authors:  Feng Wei
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9f2cb1744ff3a32269510-1604973284837/hls-5fa9f2cb1744ff3a32269510.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 67/3374 [02:24<1:55:32,  2.10s/it]id:  5fa9f396df3271403015ae10
+title:  Cross-Domain Detection via Graph-Induced Prototype Alignment
+authors:  Minghao Xu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.12849.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fa9f396df3271403015ae10-1604973485749/hls-5fa9f396df3271403015ae10.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/ChrisAllenMing/GPA
+save successfully!
+
+  2%|▏         | 68/3374 [02:27<1:56:44,  2.12s/it]id:  5faac7f490f88d69876a2bef
+title:  Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring
+authors:  Yuesong Nan
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faac7f490f88d69876a2bef-1605027840909/hls-5faac7f490f88d69876a2bef.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 69/3374 [02:29<1:54:15,  2.07s/it]id:  5faa106fff6baffe71347bb6
+title:  Putting Visual Object Recognition in Context
+authors:  Mengmi Zhang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1911.07349.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa106fff6baffe71347bb6-1604980857501/hls-5faa106fff6baffe71347bb6.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/kreimanlab/Put-In-
+save successfully!
+
+  2%|▏         | 70/3374 [02:31<1:53:08,  2.05s/it]id:  5faa0f5d30d4497d0deda6d1
+title:  Improved Few-Shot Visual Classification
+authors:  Peyman Bateni
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.03432.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa0f5d30d4497d0deda6d1-1604980588265/hls-5faa0f5d30d4497d0deda6d1.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 71/3374 [02:34<2:12:22,  2.40s/it]id:  5faa0d25f5636033162ba0fd
+title:  Robust 3D Self-Portraits in Seconds
+authors:  Zhe Li
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.02460.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa0d25f5636033162ba0fd-1604980038216/hls-5faa0d25f5636033162ba0fd.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 72/3374 [02:36<2:04:55,  2.27s/it]id:  5faa09d0088079df152f453a
+title:  Video Object Grounding Using Semantic Roles in Language Description
+authors:  Arka Sadhu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.10606.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa09d0088079df152f453a-1604979163376/hls-5faa09d0088079df152f453a.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 73/3374 [02:38<1:58:02,  2.15s/it]id:  5faa0850aea5c0e79b4f0e84
+title:  Multi-Modal Face Anti-Spoofing Based on Central Difference Networks
+authors:  Zitong Yu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.08388.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa0850aea5c0e79b4f0e84-1604978787703/hls-5faa0850aea5c0e79b4f0e84.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 74/3374 [02:40<2:09:21,  2.35s/it]id:  5faa0698c8ac1ba849f0b6b3
+title:  Semi-Supervised Semantic Segmentation With Cross-Consistency Training
+authors:  Yassine OUALI
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.09005.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa0698c8ac1ba849f0b6b3-1604978338857/hls-5faa0698c8ac1ba849f0b6b3.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 75/3374 [02:43<2:07:47,  2.32s/it]id:  5faa05d24f2d121b6a70e9c4
+title:  Diversified Arbitrary Style Transfer via Deep Feature Perturbation
+authors:  endywon
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1909.08223.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa05d24f2d121b6a70e9c4-1604978143107/hls-5faa05d24f2d121b6a70e9c4.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 76/3374 [02:45<2:01:49,  2.22s/it]id:  5faa04f6c41f876e354376b2
+title:  Transferring Dense Pose to Proximal Animal Classes
+authors:  Gradient Dude
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.00080.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faa04f6c41f876e354376b2-1604977924149/hls-5faa04f6c41f876e354376b2.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 77/3374 [02:47<1:56:03,  2.11s/it]id:  5faaf7b1b6ae0642d8eab320
+title:  A Unified Optimization Framework for Low-Rank Inducing Penalties
+authors:  marcusvaltonen
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2001.08415.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faaf7b1b6ae0642d8eab320-1605040066315/hls-5faaf7b1b6ae0642d8eab320.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 78/3374 [02:48<1:51:39,  2.03s/it]id:  5fab03476d13dc1ea0ae3f1b
+title:  [CVPR 2020 Award Nominee] Computing the Testing Error Without a Testing Set
+authors:  Sergio Escalera
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2005.00450.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab03476d13dc1ea0ae3f1b-1605043035537/hls-5fab03476d13dc1ea0ae3f1b.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 79/3374 [02:51<1:54:42,  2.09s/it]id:  5fab04978ea9731712641bb2
+title:  DeepCap: Monocular Human Performance Capture Using Weak Supervision
+authors:  Marc Habermann
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.08325.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab04978ea9731712641bb2-1605043383492/hls-5fab04978ea9731712641bb2.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 80/3374 [02:53<1:56:18,  2.12s/it]id:  5fab05e09a759e86d6e5d975
+title:  SpeedNet: Learning the Speediness in Videos
+authors:  Sagie Benaim
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.06130.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab05e09a759e86d6e5d975-1605043720982/hls-5fab05e09a759e86d6e5d975.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 81/3374 [02:55<1:55:33,  2.11s/it]id:  5fab0745dbe8f531c4a3412d
+title:  RetinaFace: Single-Shot Multi-Level Face Localisation in the Wild
+authors:  Jiankang Deng
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1905.00641.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab0745dbe8f531c4a3412d-1605044052692/hls-5fab0745dbe8f531c4a3412d.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 82/3374 [02:57<1:52:27,  2.05s/it]id:  5fab082c12437c684a1c2bde
+title:  Weakly Supervised Discriminative Feature Learning With State Information for Person Identification
+authors:  Hong-Xing Yu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.11939.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab082c12437c684a1c2bde-1605044279371/hls-5fab082c12437c684a1c2bde.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/KovenYu/state-info
+save successfully!
+
+  2%|▏         | 83/3374 [02:59<1:50:45,  2.02s/it]id:  5fab09b17ee522b912877e0d
+title:  ActiveMoCap: Optimized Viewpoint Selection for Active Human Motion Capture
+authors:  sena.kiciroglu
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.08568.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab09b17ee522b912877e0d-1605044681916/hls-5fab09b17ee522b912877e0d.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  2%|▏         | 84/3374 [03:01<1:50:25,  2.01s/it]id:  5fab0b5505b6137b4e74f538
+title:  SGAS: Sequential Greedy Architecture Search
+authors:  Guohao Li
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.00195.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab0b5505b6137b4e74f538-1605045091404/hls-5fab0b5505b6137b4e74f538.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 85/3374 [03:03<1:51:11,  2.03s/it]id:  5fab0d3b7c4dba0fc6b9f043
+title:  Generating 3D People in Scenes Without People
+authors:  Yan Zhang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.02923.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab0d3b7c4dba0fc6b9f043-1605045604909/hls-5fab0d3b7c4dba0fc6b9f043.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 86/3374 [03:05<1:53:06,  2.06s/it]id:  5fab2fe954b1f25cd007155a
+title:  FALCONS: FAst Learner-Grader for CONtorted Poses in Sports
+authors:  Mahdiar Nekoui
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab2fe954b1f25cd007155a-1605054485753/hls-5fab2fe954b1f25cd007155a.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 87/3374 [03:07<1:48:07,  1.97s/it]id:  5fab2e9165d41eba7da4e151
+title:  Deep Lighting Environment Map Estimation From Spherical Panoramas
+authors:  Vasileios Gkitsas
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2005.08000.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab2e9165d41eba7da4e151-1605054127740/hls-5fab2e9165d41eba7da4e151.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://vcl3d.github.io/DeepPanoramaL
+save successfully!
+
+  3%|▎         | 88/3374 [03:09<1:45:23,  1.92s/it]id:  5fab22d8987f4a5ceac897cc
+title:  TTNet: Real-Time Temporal and Spatial Video Analysis of Table Tennis
+authors:  Roman Voeikov
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.09927.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab22d8987f4a5ceac897cc-1605051127431/hls-5fab22d8987f4a5ceac897cc.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 89/3374 [03:11<1:47:53,  1.97s/it]id:  5fab1d85e2d4d9d27361fe0e
+title:  High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks
+authors:  Haohan Wang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1905.13545.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab1d85e2d4d9d27361fe0e-1605049768002/hls-5fab1d85e2d4d9d27361fe0e.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 90/3374 [03:13<2:02:32,  2.24s/it]id:  5fab185d4a49d54628d1f757
+title:  Speech2Action: Cross-Modal Supervision for Action Recognition
+authors:  Arsha Nagrani
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.13594.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab185d4a49d54628d1f757-1605048431279/hls-5fab185d4a49d54628d1f757.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 91/3374 [03:15<1:54:08,  2.09s/it]id:  5fab16cbf73e504eaee720e1
+title:  A U-Net Based Discriminator for Generative Adversarial Networks
+authors:  Edgar Schönfeld
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.12655.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab16cbf73e504eaee720e1-1605048026941/hls-5fab16cbf73e504eaee720e1.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 92/3374 [03:17<1:51:37,  2.04s/it]id:  5fab14150c8a95f9bc747a15
+title:  3D Sketch-Aware Semantic Scene Completion via Semi-Supervised Structure Prior
+authors:  Xiaokang Chen
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.14052.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab14150c8a95f9bc747a15-1605047328653/hls-5fab14150c8a95f9bc747a15.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 93/3374 [03:19<1:46:05,  1.94s/it]id:  5fab11d22410a6893724df96
+title:  Time Flies: Animating a Still Image With Time-Lapse Video As Reference
+authors:  Chia-Chi Cheng
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab11d22410a6893724df96-1605046749770/hls-5fab11d22410a6893724df96.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/angelwmab/Time-Flies
+save successfully!
+
+  3%|▎         | 94/3374 [03:21<1:43:35,  1.89s/it]id:  5fab10888b4ac2846f6bc7df
+title:  On the Distribution of Minima in Intrinsic-Metric Rotation Averaging
+authors:  kwilson24
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.08310.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab10888b4ac2846f6bc7df-1605046422858/hls-5fab10888b4ac2846f6bc7df.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 95/3374 [03:22<1:42:58,  1.88s/it]id:  5fab31116967f7a62050c8c1
+title:  Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction
+authors:  abduallah.mohamed
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.11927.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab31116967f7a62050c8c1-1605054748526/hls-5fab31116967f7a62050c8c1.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/abduallahmohamed/S
+save successfully!
+
+  3%|▎         | 96/3374 [03:24<1:41:43,  1.86s/it]id:  5fab32d881aa34cb7b5d4828
+title:  SampleNet: Differentiable Point Cloud Sampling
+authors:  Itai Lang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.03663.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab32d881aa34cb7b5d4828-1605055220256/hls-5fab32d881aa34cb7b5d4828.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 97/3374 [03:26<1:40:17,  1.84s/it]id:  5fab35ab4bc18d8ea6a81fb3
+title:  Learning Unseen Concepts via Hierarchical Decomposition and Composition
+authors:  Muli Yang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab35ab4bc18d8ea6a81fb3-1605055928821/hls-5fab35ab4bc18d8ea6a81fb3.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 98/3374 [03:28<1:40:28,  1.84s/it]id:  5fab37ce223291467a9aee6d
+title:  Multimodal Future Localization and Emergence Prediction with a Reachability Prior - Short Intro
+authors:  makansio
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2006.04700.pdf.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab37ce223291467a9aee6d-1605056477901/hls-5fab37ce223291467a9aee6d.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/lmb-freiburg/FLN-E
+save successfully!
+
+  3%|▎         | 99/3374 [03:30<1:42:37,  1.88s/it]id:  5fab53114a85217532a0ea33
+title:  NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks
+authors:  eugenelet.ee06g
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2006.12813.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab53114a85217532a0ea33-1605063466198/hls-5fab53114a85217532a0ea33.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 100/3374 [03:32<1:42:03,  1.87s/it]id:  5fab542012518f095941cefd
+title:  Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
+authors:  Matteo Fabbri
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.00329.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab542012518f095941cefd-1605063727408/hls-5fab542012518f095941cefd.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 101/3374 [03:34<1:40:45,  1.85s/it]id:  5fab54d99f0452c7f0641888
+title:  Learning Fused Pixel and Feature-Based View Reconstructions for Light Fields
+authors:  Jinglei Shi
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab54d99f0452c7f0641888-1605063925457/hls-5fab54d99f0452c7f0641888.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 102/3374 [03:35<1:41:23,  1.86s/it]id:  5fab559b6b0e5a21a1f65d48
+title:  Learn2Perturb: An End-to-End Feature Perturbation Learning to Improve Adversarial Robustness
+authors:  a2jeddi
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.01090.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab559b6b0e5a21a1f65d48-1605064105421/hls-5fab559b6b0e5a21a1f65d48.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 103/3374 [03:37<1:42:39,  1.88s/it]id:  5fab564e1f9cade10acad64b
+title:  Information-Driven Direct RGB-D Odometry
+authors:  fontanvillacampa
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab564e1f9cade10acad64b-1605064330808/hls-5fab564e1f9cade10acad64b.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 104/3374 [03:39<1:41:38,  1.86s/it]id:  5fab57406ad5937d9083ebe0
+title:  Anisotropic Convolutional Networks for 3D Semantic Scene Completion
+authors:  khan
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.02122.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab57406ad5937d9083ebe0-1605064528915/hls-5fab57406ad5937d9083ebe0.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 105/3374 [03:41<1:45:36,  1.94s/it]id:  5fab625e88b3d387bc19a483
+title:  Cross-Domain Correspondence Learning for Exemplar-Based Image Translation
+authors:  Pan Zhang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.05571.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab625e88b3d387bc19a483-1605067385392/hls-5fab625e88b3d387bc19a483.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 106/3374 [03:43<1:43:58,  1.91s/it]id:  5fab61ae3a6af3ee4b5af70c
+title:  VQA With No Questions-Answers Training
+authors:  Ben-Zion Vatashsky
+abstract:  structure of the question graph to invoke an extendable set of visual estimators. Training is performed for the language part and the visual part on their own, but unlike existing schemes, the method does not require any training using images with associated questions and answers. This approach is able to handle novel domains (extended question types and new object classes, properties and relations) as long as corresponding visual estimators are available. In addition, it can provide explanations to its answers and suggest alternatives when questions are not grounded in the image. We demonstrate that this approach achieves both high performance and domain extensibility without any questions-answers training.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1811.08481.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab61ae3a6af3ee4b5af70c-1605067193926/hls-5fab61ae3a6af3ee4b5af70c.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 107/3374 [03:45<1:40:20,  1.84s/it]id:  5fab6114f66e294c976b9f20
+title:  Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization
+authors:  Jing Jin
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.02215.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab6114f66e294c976b9f20-1605067041697/hls-5fab6114f66e294c976b9f20.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 108/3374 [03:47<1:39:11,  1.82s/it]id:  5fab5c4eeb1de81a7a90d665
+title:  Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference
+authors:  Thomas Verelst
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.03203.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab5c4eeb1de81a7a90d665-1605065818118/hls-5fab5c4eeb1de81a7a90d665.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 109/3374 [03:48<1:40:02,  1.84s/it]id:  5fab5b5acf8fcddf376eb266
+title:  Deep Degradation Prior for Low-Quality Image Classification
+authors:  Yang Wang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab5b5acf8fcddf376eb266-1605065588613/hls-5fab5b5acf8fcddf376eb266.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 110/3374 [03:50<1:39:48,  1.83s/it]id:  5fab5a878eceb4054994f8b6
+title:  Meta-Transfer Learning for Zero-Shot Super-Resolution
+authors:  Jae Woong Soh
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.12213.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab5a878eceb4054994f8b6-1605065362886/hls-5fab5a878eceb4054994f8b6.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 111/3374 [03:52<1:40:05,  1.84s/it]id:  5fab59d6bcff362c80ac680b
+title:  Generalized Product Quantization Network for Semi-Supervised Image Retrieval
+authors:  Young Kyun Jang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2002.11281.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab59d6bcff362c80ac680b-1605065188652/hls-5fab59d6bcff362c80ac680b.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 112/3374 [03:54<1:43:57,  1.91s/it]id:  5fab591f0a7043002f991172
+title:  Approximating shapes in images with low-complexity polygons
+authors:  Muxingzi Li
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab591f0a7043002f991172-1605065015212/hls-5fab591f0a7043002f991172.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 113/3374 [03:56<1:42:04,  1.88s/it]id:  5fab57d6af4a89d7656acdfc
+title:  StarGAN v2: Diverse Image Synthesis for Multiple Domains
+authors:  Yunjey Choi
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1912.01865.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab57d6af4a89d7656acdfc-1605064673237/hls-5fab57d6af4a89d7656acdfc.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/clovaai/stargan-v2
+save successfully!
+
+  3%|▎         | 114/3374 [03:58<1:41:04,  1.86s/it]id:  5fab63166ee07203de3e558c
+title:  Can Facial Pose and Expression Be Separated With Weak Perspective Camera?
+authors:  sariyanide
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab63166ee07203de3e558c-1605067554163/hls-5fab63166ee07203de3e558c.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 115/3374 [04:00<1:40:02,  1.84s/it]id:  5fab63881e19ce3b5d7b2903
+title:  Match or No Match: Keypoint Filtering Based on Matching Probability
+authors:  al.i.papadaki
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab63881e19ce3b5d7b2903-1605067721057/hls-5fab63881e19ce3b5d7b2903.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 116/3374 [04:02<1:40:33,  1.85s/it]id:  5fab648623dd16346d7ba147
+title:  One-Shot Domain Adaptation for Face Generation
+authors:  Chao Yang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.12869.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab648623dd16346d7ba147-1605067920923/hls-5fab648623dd16346d7ba147.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 117/3374 [04:03<1:39:42,  1.84s/it]id:  5fab6567eec91f70a81ec10d
+title:  Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy
+authors:  Jaejun Yoo
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2004.00448.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab6567eec91f70a81ec10d-1605068148807/hls-5fab6567eec91f70a81ec10d.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  3%|▎         | 118/3374 [04:05<1:38:33,  1.82s/it]id:  5fab661ff8f576bd9cb180b4
+title:  Block-Wisely Supervised Neural Architecture Search With Knowledge Distillation
+authors:  changlin.li
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab661ff8f576bd9cb180b4-1605068329635/hls-5fab661ff8f576bd9cb180b4.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/changlin31/DNA
+save successfully!
+
+  4%|▎         | 119/3374 [04:07<1:37:05,  1.79s/it]id:  5fab5862ad189eefa849c0db
+title:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
+authors:  crf18
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/2003.00273.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5fab5862ad189eefa849c0db-1605064818205/hls-5fab5862ad189eefa849c0db.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/alpc91/NICE-GAN-py
+save successfully!
+
+  4%|▎         | 120/3374 [04:09<1:37:50,  1.80s/it]id:  5faca5286507d74265de3058
+title:  A Lighting-Invariant Point Processor for Shading
+authors:  Kathryn Heal
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faca5286507d74265de3058-1605150017962/hls-5faca5286507d74265de3058.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://paperswithcode.com/paper/a-lighting-invariant-point-processor-for
+save successfully!
+
+  4%|▎         | 121/3374 [04:11<1:38:19,  1.81s/it]id:  5faca77491ade64f16cfed70
+title:  CARS: Continuous Evolution for Efficient Neural Architecture Search
+authors:  Zhaohui Yang
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  https://arxiv.org/pdf/1909.04977.pdf
+pdfPath:  
+videoUrl:  https://stream.crossminds.ai/5faca77491ade64f16cfed70-1605150591273/hls-5faca77491ade64f16cfed70.m3u8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▎         | 122/3374 [04:12<1:38:18,  1.81s/it]id:  5f6d03741dc9eff099d89311
+title:  Reposing Humans by Warping 3D Features
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ZOa6mCXBYWk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▎         | 123/3374 [04:14<1:37:38,  1.80s/it]id:  5f6d039e1dc9eff099d89313
+title:  Real-Time Tracking With Stabilized Frame
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/-ZmSZ3c1uGg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▎         | 124/3374 [04:16<1:36:19,  1.78s/it]id:  5f6d03c41dc9eff099d89315
+title:  Multi-Camera Trajectory Forecasting: Pedestrian Trajectory Prediction in a Network of Cameras
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/F8DTC5KVUZo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/olly-styles/Multi-Camera-Trajectory-Forecasting
+save successfully!
+
+  4%|▎         | 125/3374 [04:18<1:35:23,  1.76s/it]id:  5f6d03db1dc9eff099d89317
+title:  Dynamic Neural Relational Inference for Forecasting Trajectories
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/LAR7969fZm8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▎         | 126/3374 [04:19<1:33:54,  1.73s/it]id:  5f6d058b1dc9eff099d89319
+title:  Glaucoma Precognition: Recognizing Preclinical Visual Functional Signs of Glaucoma
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/vncp3zVwLGA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 127/3374 [04:21<1:34:58,  1.76s/it]id:  5f6d05b01dc9eff099d8931b
+title:  A Multimodal Predictive Agent Model for Human Interaction Generation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/afYDpCTNgzc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 128/3374 [04:23<1:38:00,  1.81s/it]id:  5f6d05ed1dc9eff099d8931d
+title:  SILA: An Incremental Learning Approach for Pedestrian Trajectory Prediction
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/PYm8c7ThhW4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 129/3374 [04:25<1:36:21,  1.78s/it]id:  5f6d06191dc9eff099d8931f
+title:  Feedback U-Net for Cell Image Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/XGIzAyuAkBs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 130/3374 [04:27<1:38:41,  1.83s/it]id:  5f6d07251dc9eff099d89321
+title:  Detection and Classification of Pollen Grain Microscope Images
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/2FYBQ4XoUaw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 131/3374 [04:28<1:37:02,  1.80s/it]id:  5f6d09cf1dc9eff099d89323
+title:  Rapid Training Data Creation by Synthesizing Medical Images for Classification and Localization
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/K2diLScR8Mo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 132/3374 [04:30<1:38:52,  1.83s/it]id:  5f6d09f31dc9eff099d89325
+title:  WISH: Efficient 3D Biological Shape Classification Through Willmore Flow and Spherical Harmonics...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/6dzavSUPagE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 133/3374 [04:32<1:38:35,  1.83s/it]id:  5f6d0a4b1dc9eff099d89327
+title:  A Web-Based Intelligence Platform for Diagnosis of Malaria in Thick Blood Smear Images: A Case fo...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4MBFnXVs5Ks
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 134/3374 [04:34<1:39:04,  1.83s/it]id:  5f6d0a791dc9eff099d89329
+title:  A Topological Encoding Convolutional Neural Network for Segmentation of 3D Multiphoton Images of...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/up9DumT7o1E
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/mhaft/DeepVess
+save successfully!
+
+  4%|▍         | 135/3374 [04:36<1:38:42,  1.83s/it]id:  5f6d0ad51dc9eff099d8932b
+title:  Improved Active Speaker Detection Based on Optical Flow
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MGn5wY0DYVo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 136/3374 [04:38<1:40:04,  1.85s/it]id:  5f6d0afc1dc9eff099d8932d
+title:  CPARR: Category-Based Proposal Analysis for Referring Relationships
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/RM4KrAFY0sY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 137/3374 [04:41<2:05:20,  2.32s/it]id:  5f6d0c731dc9eff099d8932f
+title:  An Embarrassingly Simple Baseline to One-Shot Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/btekpe7rcdk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  http://github.com/corwinliu9669/embarrassingly-simple-baseline
+save successfully!
+
+  4%|▍         | 138/3374 [04:43<1:56:03,  2.15s/it]id:  5f6d0c8d1dc9eff099d89331
+title:  Cross-Domain Knowledge Transfer for Prediction of Chemosensitivity in Ovarian Cancer Patients
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/xu4BWdQF4V8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 139/3374 [04:45<1:49:22,  2.03s/it]id:  5f6d0cb41dc9eff099d89333
+title:  Alleviating Semantic-Level Shift: A Semi-Supervised Domain Adaptation Method for Semantic Segment...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/AUD1yuv0-tE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 140/3374 [04:46<1:45:01,  1.95s/it]id:  5f6d030b1dc9eff099d8930f
+title:  The MTA Dataset for Multi-Target Multi-Camera Pedestrian Tracking by Weighted Distance Aggregation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/sfQy7cJtTvE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 141/3374 [04:48<1:40:24,  1.86s/it]id:  5f6d02261dc9eff099d8930d
+title:  Fine-Grained Pointing Recognition for Natural Drone Guidance
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/v30RchOhXbM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 142/3374 [04:50<1:48:36,  2.02s/it]id:  5f6d02001dc9eff099d8930b
+title:  Yoga-82: A New Dataset for Fine-Grained Classification of Human Poses
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/XR1VoTtfO6Y
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 143/3374 [04:54<2:07:42,  2.37s/it]id:  5f6d01e11dc9eff099d89309
+title:  LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/9lS4Qw08vds
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/Guanghan/lighttrack
+save successfully!
+
+  4%|▍         | 144/3374 [04:55<1:58:54,  2.21s/it]id:  5f6d0dfb1dc9eff099d89335
+title:  Utilizing Mask R-CNN for Waterline Detection in Canoe Sprint Video Analysis
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/3M3OzWxmZCg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 145/3374 [04:58<2:03:36,  2.30s/it]id:  5f6d0e651dc9eff099d89337
+title:  VR Alpine Ski Training Augmentation Using Visual Cues of Leading Skier
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/T4XjPZKYpsI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 146/3374 [05:00<1:54:47,  2.13s/it]id:  5f6d0e921dc9eff099d89339
+title:  Multimodal and Multiview Distillation for Real-Time Player Detection on a Football Field
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ajxCPV-eN6g
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 147/3374 [05:02<1:53:02,  2.10s/it]id:  5f6d0ebe1dc9eff099d8933d
+title:  Using Player’s Body-Orientation to Model Pass Feasibility in Soccer
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/tL5_WRSMojU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 148/3374 [05:03<1:48:36,  2.02s/it]id:  5f6d0f201dc9eff099d8933f
+title:  A Non-Invasive Vision-Based Approach to Velocity Measurement of Skeleton Training
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/nkYjm1YIALE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 149/3374 [05:06<1:52:20,  2.09s/it]id:  5f6d10a71dc9eff099d89341
+title:  A System for Acquisition and Modelling of Ice-Hockey Stick Shape Deformation From Player Shot Videos
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/svueTR7RIhs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 150/3374 [05:07<1:46:59,  1.99s/it]id:  5f6d10ba1dc9eff099d89343
+title:  Decoupling Video and Human Motion: Towards Practical Event Detection in Athlete Recordings
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/g6lTl1wDZFg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  4%|▍         | 151/3374 [05:09<1:42:30,  1.91s/it]id:  5f6d10cb1dc9eff099d89345
+title:  Improved Soccer Action Spotting Using Both Audio and Video Streams
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ZZjO0QzvvQM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 152/3374 [05:11<1:47:56,  2.01s/it]id:  5f6d10da1dc9eff099d89347
+title:  Group Activity Detection From Trajectory and Video Data in Soccer
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/g3pk8DPhavQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 153/3374 [05:13<1:44:08,  1.94s/it]id:  5f6d11061dc9eff099d8934b
+title:  Event Detection in Coarsely Annotated Sports Videos via Parallel Multi-Receptive Field 1D Convolu...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/BpPIb6ZO-jU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 154/3374 [05:15<1:44:07,  1.94s/it]id:  5f6d112e1dc9eff099d8934d
+title:  As Seen on TV: Automatic Basketball Video Production Using Gaussian-Based Actionness and Game Sta...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Fp-DMKhH-Uk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 155/3374 [05:17<1:40:42,  1.88s/it]id:  5f6d11691dc9eff099d8934f
+title:  Semi-Supervised Learning With Scarce Annotations
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/mosRfFE-10E
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 156/3374 [05:19<1:44:00,  1.94s/it]id:  5f6d11821dc9eff099d89351
+title:  Can We Learn Heuristics for Graphical Model Inference Using Reinforcement Learning?
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Cl333NyUAyM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 157/3374 [05:21<1:46:35,  1.99s/it]id:  5f6d11a61dc9eff099d89353
+title:  SUW-Learn: Joint Supervised, Unsupervised, Weakly Supervised Deep Learning for Monocular Depth...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/jVaC34tloIU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 158/3374 [05:24<1:57:06,  2.18s/it]id:  5f6d11e31dc9eff099d89355
+title:  Toward Real-World Panoramic Image Enhancement
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Qnf-ntZgGJc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 159/3374 [05:26<1:50:31,  2.06s/it]id:  5f6d11eb1dc9eff099d89357
+title:  A Deep Physical Model for Solar Irradiance Forecasting With Fisheye Images
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/jzxJ9Oxm6QA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 160/3374 [05:27<1:45:23,  1.97s/it]id:  5f6d13171dc9eff099d89359
+title:  ArUcOmni: Detection of Highly Reliable Fiducial Markers in Panoramic Images
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/z0MQUQZAa2Q
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 161/3374 [05:29<1:42:55,  1.92s/it]id:  5f6d13271dc9eff099d8935b
+title:  RAPiD: Rotation-Aware People Detection in Overhead Fisheye Images
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/r6PJV7bLrzA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 162/3374 [05:31<1:40:23,  1.88s/it]id:  5f6d13c61dc9eff099d8935d
+title:  Unsupervised Learning of Metric Representations With Slow Features From Omnidirectional Views
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/cPZVGtq-DXc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 163/3374 [05:35<2:17:06,  2.56s/it]id:  5f6d14661dc9eff099d89361
+title:  Upright and Stabilized Omnidirectional Depth Estimation for Wide-Baseline Multi-Camera Inertial...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/wNItrw0e_gM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 164/3374 [05:37<2:09:34,  2.42s/it]id:  5f6d14ba1dc9eff099d89363
+title:  Further Non-Local and Channel Attention Networks for Vehicle Re-Identification
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/E5uCX3oFe2I
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 165/3374 [05:39<1:57:22,  2.19s/it]id:  5f6d14ce1dc9eff099d89365
+title:  Vehicle Re-Identification Based on Complementary Features
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/wVU_88YxfFU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 166/3374 [05:41<1:51:44,  2.09s/it]id:  5f6d153c1dc9eff099d89367
+title:  Determining Vehicle Turn Counts at Multiple Intersections by Separated Vehicle Classes Using CNNs
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/20dwK3OhSpU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 167/3374 [05:42<1:47:29,  2.01s/it]id:  5f6d154c1dc9eff099d89369
+title:  AI City Challenge 2020 – Computer Vision for Smart Transportation Applications
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/qzzeRe_8JG0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▍         | 168/3374 [05:44<1:45:14,  1.97s/it]id:  5f6d155a1dc9eff099d8936b
+title:  The 4th AI City Challenge
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/6GqrkNT8qkc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 169/3374 [05:46<1:48:39,  2.03s/it]id:  5f6d15a41dc9eff099d8936d
+title:  Hierarchical Regression Network for Spectral Reconstruction From RGB Images
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/2qRRNj-cZ5M
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 170/3374 [05:49<1:50:12,  2.06s/it]id:  5f6d15b61dc9eff099d89371
+title:  C3Net: Demoiréing Network Attentive in Channel, Color and Concatenation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/eQNm3Fa1x8A
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 171/3374 [05:51<1:55:27,  2.16s/it]id:  5f6d15d11dc9eff099d89373
+title:  Densely Self-Guided Wavelet Network for Image Denoising
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/sEFhoYF0wEo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 172/3374 [05:53<1:53:57,  2.14s/it]id:  5f6d169b1dc9eff099d89375
+title:  Real-World Super-Resolution Using Generative Adversarial Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/7H4PeLerE_A
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 173/3374 [05:55<1:51:29,  2.09s/it]id:  5f6d16ab1dc9eff099d89377
+title:  Ensemble Dehazing Networks for Non-Homogeneous Haze
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/B6id9kDXQIQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 174/3374 [05:57<1:56:03,  2.18s/it]id:  5f6d16b51dc9eff099d89379
+title:  Moiré Pattern Removal via Attentive Fractal Network
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/LNQVGSfiKSY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/ir1d/AFN
+save successfully!
+
+  5%|▌         | 175/3374 [06:00<1:53:57,  2.14s/it]id:  5f6d16bc1dc9eff099d8937b
+title:  A Review of an Old Dilemma: Demosaicking First, or Denoising First?
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/7A8vPH2z-GQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 176/3374 [06:02<1:55:11,  2.16s/it]id:  5f6d16d01dc9eff099d8937d
+title:  Structure Preserving Compressive Sensing MRI Reconstruction Using Generative Adversarial Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/_0ytYJuvAW8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 177/3374 [06:04<1:53:42,  2.13s/it]id:  5f6d16db1dc9eff099d8937f
+title:  Sky Optimization: Semantically Aware Image Processing of Skies in Low-Light Photography
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/zniauoWrhzo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 178/3374 [06:06<1:51:24,  2.09s/it]id:  5f6d16ec1dc9eff099d89381
+title:  FBRNN: Feedback Recurrent Neural Network for Extreme Image Super-Resolution
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/mlUdjYz1O_8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 179/3374 [06:08<1:54:37,  2.15s/it]id:  5f6d16fe1dc9eff099d89383
+title:  DA-cGAN: A Framework for Indoor Radio Design Using a Dimension-Aware Conditional Generative Adver...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/_PfX8PRQszE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 180/3374 [06:10<1:56:19,  2.19s/it]id:  5f6d171c1dc9eff099d89385
+title:  Discriminant Distribution-Agnostic Loss for Facial Expression Recognition in the Wild
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/1QwcZhe8kiI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 181/3374 [06:13<2:01:06,  2.28s/it]id:  5f6d172d1dc9eff099d89387
+title:  Predicting Sentiments in Image Advertisements Using Semantic Relations Among Sentiment Labels
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ph-wWPnygBU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 182/3374 [06:15<1:57:17,  2.20s/it]id:  5f6d17461dc9eff099d89389
+title:  TAL EmotioNet Challenge 2020 Rethinking the Model Chosen Problem in Multi-Task Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/LP265HWaJ9I
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 183/3374 [06:17<1:55:52,  2.18s/it]id:  5f6d17631dc9eff099d8938b
+title:  Challenges in Recognizing Spontaneous and Intentionally Expressed Reactions to Positive and Negat...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/VEKIVzJcI5w
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 184/3374 [06:19<1:52:48,  2.12s/it]id:  5f6d17771dc9eff099d8938d
+title:  Facial Action Unit Recognition in the Wild With Multi-Task CNN Self-Training for the EmotioNet...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/dUgpbrSfo0w
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  5%|▌         | 185/3374 [06:21<1:53:24,  2.13s/it]id:  5f6d17951dc9eff099d8938f
+title:  Multiple Transfer Learning and Multi-Label Balanced Training Strategies for Facial AU Detection...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0cFZktEHtkk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/kaiwang960112/ENC2020_AU_Detection
+save successfully!
+
+  6%|▌         | 186/3374 [06:23<1:53:15,  2.13s/it]id:  5f6d17a61dc9eff099d89391
+title:  Using Sinusoidally-Modulated Noise as a Surrogate for Slow-Wave Sleep to Accomplish Stable Unsupe...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0hrHQQtMoKI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 187/3374 [06:25<1:51:25,  2.10s/it]id:  5f6d17cf1dc9eff099d89393
+title:  In Search of Life: Learning From Synthetic Data to Detect Vital Signs in Videos
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/fdeHVAA9ZNc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 188/3374 [06:28<1:54:00,  2.15s/it]id:  5f6d17db1dc9eff099d89395
+title:  Convulsive Movement Detection Using Low-Resolution Thermopile Sensor Array
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/kfOcKeba3uA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 189/3374 [06:35<3:13:26,  3.64s/it]id:  5f6d17f01dc9eff099d89397
+title:  Long Short-Term Memory Deep-Filter In Remote Photoplethysmography
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/5g0uyD6O14o
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 190/3374 [06:37<2:56:42,  3.33s/it]id:  5f6d247b1dc9eff099d89401
+title:  Generating Socially Acceptable Perturbations for Efficient Evaluation of Autonomous Vehicles
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0_v-wy7fdUM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 191/3374 [06:40<2:39:39,  3.01s/it]id:  5f6d24731dc9eff099d893ff
+title:  Multivariate Confidence Calibration for Object Detection
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/g4VuFAFIeE0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 192/3374 [06:42<2:31:37,  2.86s/it]id:  5f6d246c1dc9eff099d893fd
+title:  Leveraging Combinatorial Testing for Safety-Critical Computer Vision Datasets
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0Ju6pB0o-qU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 193/3374 [06:44<2:20:31,  2.65s/it]id:  5f6d24471dc9eff099d893fb
+title:  Understanding Action Recognition in Still Images
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/mUd06fNBDXI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 194/3374 [06:47<2:18:40,  2.62s/it]id:  5f6d22bf1dc9eff099d893f9
+title:  Recursive Hybrid Fusion Pyramid Network for Real-Time Small Object Detection on Embedded Devices
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/DMj2mEEDpSI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 195/3374 [06:51<2:38:28,  2.99s/it]id:  5f6d22bc1dc9eff099d893f7
+title:  Recursive Hybrid Fusion Pyramid Network for Real-Time Small Object Detection on Embedded Devices
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/fvHdKZteego
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+
+  6%|▌         | 196/3374 [06:53<2:28:10,  2.80s/it]id:  5f6d22b81dc9eff099d893f5
+title:  A Hardware Prototype Targeting Distributed Deep Learning for On-Device Inference
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/RI0ZpcueF-U
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 197/3374 [06:55<2:19:42,  2.64s/it]id:  5f6d22b61dc9eff099d893f3
+title:  Enabling Incremental Knowledge Transfer for Object Detection at the Edge
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/nSP021aVBRo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 198/3374 [06:57<2:11:46,  2.49s/it]id:  5f6d22ae1dc9eff099d893ef
+title:  Enabling Monocular Depth Perception at the Very Edge
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/KbWz5xCdhfo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 199/3374 [07:00<2:08:14,  2.42s/it]id:  5f6d22a21dc9eff099d893ed
+title:  CSPNet: A New Backbone That Can Enhance Learning Capability of CNN
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/aDm5L7ok-9A
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 200/3374 [07:02<2:04:03,  2.35s/it]id:  5f6d22661dc9eff099d893eb
+title:  Deepfakes Detection With Automatic Face Weighting
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/J2TSHYjnwMQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 201/3374 [07:04<2:06:07,  2.39s/it]id:  5f6d22031dc9eff099d893e9
+title:  Deepfakes Detection With Automatic Face Weighting
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/J2TSHYjnwMQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+
+  6%|▌         | 202/3374 [07:06<2:03:24,  2.33s/it]id:  5f6d21f61dc9eff099d893e5
+title:  Manipulation Detection in Satellite Images Using Deep Belief Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/GLiwQ6dChGU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 203/3374 [07:09<2:01:17,  2.29s/it]id:  5f6d1e911dc9eff099d893e1
+title:  Learning Sparse & Ternary Neural Networks With Entropy-Constrained Trained Ternarization (EC2T)
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/mtNQl5vuvIY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 204/3374 [07:11<2:03:26,  2.34s/it]id:  5f6d1e821dc9eff099d893dd
+title:  Attentive Semantic Preservation Network for Zero-Shot Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/f9c7EDIy8Mg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 205/3374 [07:13<2:00:06,  2.27s/it]id:  5f6d1e6e1dc9eff099d893db
+title:  Meta-DermDiagnosis: Few-Shot Skin Disease Identification Using Meta-Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MpzR--pUsQo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 206/3374 [07:16<1:59:40,  2.27s/it]id:  5f6d1e4a1dc9eff099d893d9
+title:  Extensions and Limitations of Randomized Smoothing for Robustness Guarantees
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/5rWZ6WRST0k
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 207/3374 [07:18<1:57:20,  2.22s/it]id:  5f6d1e401dc9eff099d893d7
+title:  Improving the Affordability of Robustness Training for DNNs
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/15xJeRj3hHM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 208/3374 [07:20<1:59:51,  2.27s/it]id:  5f6d1df11dc9eff099d893d3
+title:  Offline Signature Verification on Real-World Documents
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/EfaRr41UOxU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 209/3374 [07:22<1:59:07,  2.26s/it]id:  5f6d1dbc1dc9eff099d893d1
+title:  Plastic Surgery: An Obstacle for Deep Face Recognition?
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/TbJrE7poVNs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▌         | 210/3374 [07:24<1:58:48,  2.25s/it]id:  5f6d1d651dc9eff099d893cf
+title:  Representations, Metrics and Statistics for Shape Analysis of Elastic Graphs
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/-pMg2Av3Yo0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 211/3374 [07:27<1:57:44,  2.23s/it]id:  5f6d1d471dc9eff099d893cd
+title:  Self-Supervised Object Motion and Depth Estimation From Video
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/jcmWXLhNsjs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 212/3374 [07:29<1:57:37,  2.23s/it]id:  5f6d1d191dc9eff099d893cb
+title:  Feudal Steering: Hierarchical Learning for Steering Angle Prediction
+authors:  ComputerVisionFoundation Videos
+abstract:  ion in driving allows more complex primitives than the steering angle at a single time instance. Composite actions comprise a subroutine or skill that can be re-used throughout the driving sequence. The associated subroutine id is the manager network's goal, so that the manager seeks to succeed at the high level task (e.g. a sharp right turn, a slight right turn, moving straight in traffic, or moving straight unencumbered by traffic). The steering angle at a particular time instance is the worker network output which is regulated by the manager's high level task. We demonstrate state-of-the art steering angle prediction results on the Udacity dataset.
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/b0_5JLlgzA4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 213/3374 [07:31<1:55:25,  2.19s/it]id:  5f6d1d041dc9eff099d893c9
+title:  Learning Depth-Guided Convolutions for Monocular 3D Object Detection
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/EZfC3f0ZODQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 214/3374 [07:33<1:54:39,  2.18s/it]id:  5f6d1ce81dc9eff099d893c7
+title:  SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MvPp-4GuspI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 215/3374 [07:35<1:53:50,  2.16s/it]id:  5f6d199c1dc9eff099d893c3
+title:  Exploring Racial Bias Within Face Recognition via Per-Subject Adversarially-Enabled Data Augmenta...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/RM-OI_51a0c
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 216/3374 [07:37<1:54:32,  2.18s/it]id:  5f6d19891dc9eff099d893c1
+title:  Revisiting the Evaluation of Uncertainty Estimation and Its Application to Explore Model Complexi...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/h2rQzNdQdTM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 217/3374 [07:40<2:02:25,  2.33s/it]id:  5f6d19751dc9eff099d893bf
+title:  Privacy Enhanced Decision Tree Inference
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/3J5hifRpcu0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 218/3374 [07:43<2:04:18,  2.36s/it]id:  5f6d19621dc9eff099d893bd
+title:  Attribute Aware Filter-Drop for Bias Invariant Classification
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/UoOhwF3hmw0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  6%|▋         | 219/3374 [07:45<2:10:03,  2.47s/it]id:  5f6d195a1dc9eff099d893bb
+title:  Plug-and-Pipeline: Efficient Regularization for Single-Step Adversarial Training
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/pcOpVZ6kHyo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 220/3374 [07:48<2:12:23,  2.52s/it]id:  5f6d194f1dc9eff099d893b9
+title:  Bias in Multimodal AI: Testbed for Fair Automatic Recruitment
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/NnU4PZsH-gA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 221/3374 [07:50<2:06:28,  2.41s/it]id:  5f6d19211dc9eff099d893b7
+title:  On Privacy Preserving Anonymization of Finger-Selfies
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/hQIvsUKBPmc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 222/3374 [07:52<2:01:57,  2.32s/it]id:  5f6d18f91dc9eff099d893b5
+title:  Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/lB0nZ71ASpo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 223/3374 [07:54<2:01:06,  2.31s/it]id:  5f6d18f31dc9eff099d893b3
+title:  DNDNet: Reconfiguring CNN for Adversarial Robustness
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/RVhVOdQuv6U
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 224/3374 [07:57<2:07:00,  2.42s/it]id:  5f6d18ed1dc9eff099d893b1
+title:  Minimizing Supervision in Multi-Label Categorization
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/nAWmhrAu65Q
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 225/3374 [07:59<2:02:54,  2.34s/it]id:  5f6d18e51dc9eff099d893af
+title:  Imparting Fairness to Pre-Trained Biased Representations
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/6B5BKh0TRM0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/human-analysis/kernel-adversarial
+save successfully!
+
+  7%|▋         | 226/3374 [08:02<2:03:10,  2.35s/it]id:  5f6d18d01dc9eff099d893ad
+title:  Enhancing Facial Data Diversity With Style-Based Face Aging
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/nV-2cjx2qRY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 227/3374 [08:04<2:03:19,  2.35s/it]id:  5f6d18c91dc9eff099d893ab
+title:  Interpreting Interpretations: Organizing Attribution Methods by Criteria
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/exKvKzS7Rzk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 228/3374 [08:06<2:01:48,  2.32s/it]id:  5f6d18921dc9eff099d893a9
+title:  Identity Preserve Transform: Understand What Activity Classification Models Have Learnt
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ntUU7iS3ano
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 229/3374 [08:08<1:58:59,  2.27s/it]id:  5f6d18891dc9eff099d893a7
+title:  An Analytical Framework for Trusted Machine Learning and Computer Vision Running With Blockchain
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/9RvZeJOla74
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 230/3374 [08:11<1:58:39,  2.26s/it]id:  5f6d18771dc9eff099d893a5
+title:  SAM: The Sensitivity of Attribution Methods to Hyperparameters
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/idpYt0E2y68
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 231/3374 [08:13<1:56:44,  2.23s/it]id:  5f6d18611dc9eff099d893a1
+title:  A New Multimodal RGB and Polarimetric Image Dataset for Road Scenes Analysis
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/dZSvYu7HkuY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 232/3374 [08:15<1:55:54,  2.21s/it]id:  5f6d185a1dc9eff099d8939f
+title:  Removal of Image Obstacles for Vehicle-Mounted Surrounding Monitoring Cameras by Real-Time Video...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/TD5vaXi87mU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 233/3374 [08:17<1:56:08,  2.22s/it]id:  5f6d18311dc9eff099d8939d
+title:  Implicit Euler ODE Networks for Single-Image Dehazing
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/cUqQgmurLIc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 234/3374 [08:20<1:58:20,  2.26s/it]id:  5f6d181f1dc9eff099d8939b
+title:  HIDeGan: A Hyperspectral-Guided Image Dehazing GAN
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/CdKxVfDSAL0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 235/3374 [08:22<1:57:31,  2.25s/it]id:  5f6d24821dc9eff099d89403
+title:  Self-Supervised Domain Mismatch Estimation for Autonomous Perception
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0DuPZosDcbs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 236/3374 [08:24<1:57:33,  2.25s/it]id:  5f6d24c01dc9eff099d89405
+title:  Capturing Cellular Topology in Multi-Gigapixel Pathology Images
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Nl8W1As8EfI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 237/3374 [08:26<1:57:46,  2.25s/it]id:  5f6d24ee1dc9eff099d89407
+title:  Lifelong Machine Learning With Deep Streaming Linear Discriminant Analysis
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Xn1j1laO2BY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 238/3374 [08:29<1:57:15,  2.24s/it]id:  5f6d25071dc9eff099d89409
+title:  Cognitively-Inspired Model for Incremental Learning Using a Few Examples
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/nWlCxvjqMbs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 239/3374 [08:31<1:56:14,  2.22s/it]id:  5f6d25161dc9eff099d8940b
+title:  Continual Learning of Object Instances
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4Rz9Fmbl_T8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 240/3374 [08:33<1:56:08,  2.22s/it]id:  5f6d25221dc9eff099d8940f
+title:  StackNet: Stacking Feature Maps for Continual Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/L33r6S2UP6c
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 241/3374 [08:35<1:56:42,  2.24s/it]id:  5f6d25281dc9eff099d89411
+title:  Noise-Based Selection of Robust Inherited Model for Accurate Continual Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/vk5xem7kTWE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 242/3374 [08:37<1:56:50,  2.24s/it]id:  5f6d25491dc9eff099d89413
+title:  Syntharch: Interactive Image Search With Attribute-Conditioned Synthesis
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/WI4-jgFO62k
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 243/3374 [08:40<1:53:27,  2.17s/it]id:  5f6d254f1dc9eff099d89415
+title:  Learning Spatial Relationships Between Samples of Patent Image Shapes
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/KkU-vxjVEeA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 244/3374 [08:42<1:55:47,  2.22s/it]id:  5f6d25561dc9eff099d89417
+title:  Diagram Image Retrieval Using Sketch-Based Deep Learning and Transfer Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/J_EF__ucluw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 245/3374 [08:44<1:59:05,  2.28s/it]id:  5f6d256a1dc9eff099d89419
+title:  Automatic Digitization of Engineering Diagrams Using Deep Learning and Graph Search
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/GX9_BDeumN0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 246/3374 [08:46<1:56:43,  2.24s/it]id:  5f6d257c1dc9eff099d8941b
+title:  Structured Query-Based Image Retrieval Using Scene Graphs
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/-wRlKWDuIXg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 247/3374 [08:49<2:04:10,  2.38s/it]id:  5f6d25861dc9eff099d8941d
+title:  A Simplified Framework for Zero-Shot Cross-Modal Sketch Data Retrieval
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/VjZMjagehFc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 248/3374 [08:51<2:00:27,  2.31s/it]id:  5f6d25a61dc9eff099d89421
+title:  Ultra Low Bitrate Learned Image Compression by Selective Detail Decoding
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/DwZBlGy1lbg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 249/3374 [08:53<1:56:00,  2.23s/it]id:  5f6d25b71dc9eff099d89423
+title:  SR-CL-DMC: P-Frame Coding With Super-Resolution, Color Learning, and Deep Motion Compensation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/nQ6pstBmGrs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 250/3374 [08:56<2:02:54,  2.36s/it]id:  5f6d25bf1dc9eff099d89425
+title:  Low Bitrate Image Compression With Discretized Gaussian Mixture Likelihoods
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/lWDlJC2osT0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 251/3374 [08:58<1:57:36,  2.26s/it]id:  5f6d25da1dc9eff099d89427
+title:  Post-Processing Network Based on Dense Inception Attention for Video Compression
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/-o3QLRJ0v7k
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 252/3374 [09:00<1:56:09,  2.23s/it]id:  5f6d25f51dc9eff099d89429
+title:  Adapting JPEG XS Gains and Priorities to Tasks and Contents
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/7ADMH50wybo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  7%|▋         | 253/3374 [09:02<1:53:59,  2.19s/it]id:  5f6d26001dc9eff099d8942b
+title:  SOFEA: A Non-Iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/mPItrhMn0JQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 254/3374 [09:04<1:54:33,  2.20s/it]id:  5f6d26101dc9eff099d8942d
+title:  Unsupervised Object Detection via LWIR/RGB Translation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/CjqSpNb-1Yg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 255/3374 [09:07<1:53:48,  2.19s/it]id:  5f6d26251dc9eff099d8942f
+title:  High-Resolution Radar Dataset for Semi-Supervised Learning of Dynamic Objects
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/bixc-lUuZkw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 256/3374 [09:10<2:09:16,  2.49s/it]id:  5f6d262d1dc9eff099d89431
+title:  Probabilistic Oriented Object Detection in Automotive Radar
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/8AaxkKhAsSA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 257/3374 [09:12<2:01:02,  2.33s/it]id:  5f6d265e1dc9eff099d89433
+title:  Visual 3D Reconstruction and Dynamic Simulation of Fruit Trees for Robotic Manipulation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/GR_NwpV372I
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 258/3374 [09:14<1:55:47,  2.23s/it]id:  5f6d266f1dc9eff099d89435
+title:  Deep Transfer Learning for Plant Center Localization
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/djb8r9akAIA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 259/3374 [09:16<1:52:16,  2.16s/it]id:  5f6d27c21dc9eff099d89437
+title:  High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/9wDqE6D_SVI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 260/3374 [09:18<1:56:27,  2.24s/it]id:  5f6d27c91dc9eff099d89439
+title:  Learning to Dress 3D People in Generative Clothing
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/NOEA-Rtq6vM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 261/3374 [09:20<1:51:46,  2.15s/it]id:  5f6d27db1dc9eff099d8943b
+title:  MAST: A Memory-Augmented Self-Supervised Tracker
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/_9ws57RD3ME
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 262/3374 [09:22<1:53:34,  2.19s/it]id:  5f6d27eb1dc9eff099d8943d
+title:  GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/WexHfLVMZQs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/xinshuoweng/GNN3DMOT
+save successfully!
+
+  8%|▊         | 263/3374 [09:25<1:54:12,  2.20s/it]id:  5f6d28201dc9eff099d8943f
+title:  ClusterFit: Improving Generalization of Visual Representations
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/lOrkou8sTvU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 264/3374 [09:27<1:54:11,  2.20s/it]id:  5f6d282a1dc9eff099d89441
+title:  Learning Dynamic Relationships for 3D Human Motion Prediction
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Cybc-MgNHQc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/cuiqiongjie/LDRGCN
+save successfully!
+
+  8%|▊         | 265/3374 [09:29<1:51:45,  2.16s/it]id:  5f6d28331dc9eff099d89443
+title:  S3VAE: Self-Supervised Sequential VAE for Representation Disentanglement and Data Generation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/qyEwf92IPFw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 266/3374 [09:31<1:57:30,  2.27s/it]id:  5f6d28801dc9eff099d89445
+title:  Video Playback Rate Perception for Self-Supervised Spatio-Temporal Representation Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/D1wSyZqaAn0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 267/3374 [09:34<1:59:00,  2.30s/it]id:  5f6d28881dc9eff099d89447
+title:  Learning to Manipulate Individual Objects in an Image
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/EHQZDwakiio
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 268/3374 [09:36<1:58:47,  2.29s/it]id:  5f6d28951dc9eff099d89449
+title:  PADS: Policy-Adapted Sampling for Visual Similarity Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/2vWoPk8gbIs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/Confusezius/CVPR2020_PADS
+save successfully!
+
+  8%|▊         | 269/3374 [09:38<1:59:00,  2.30s/it]id:  5f6d289b1dc9eff099d8944b
+title:  Siam R-CNN: Visual Tracking by Re-Detection
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/3dfmEvtgzkA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 270/3374 [09:41<1:59:55,  2.32s/it]id:  5f6d28a01dc9eff099d8944d
+title:  ASLFeat: Learning Local Features of Accurate Shape and Localization
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/fmCTr81MJLw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 271/3374 [09:43<1:56:15,  2.25s/it]id:  5f6d28b51dc9eff099d8944f
+title:  Filter Grafting for Deep Neural Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/nDTZiA2-Enw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 272/3374 [09:45<1:55:18,  2.23s/it]id:  5f6d28bc1dc9eff099d89451
+title:  HOPE-Net: A Graph-Based Model for Hand-Object Pose Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/TCmr2-VkDPU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 273/3374 [09:47<1:55:39,  2.24s/it]id:  5f6d28ce1dc9eff099d89453
+title:  DeepFaceFlow: In-the-Wild Dense 3D Facial Motion Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/bkcw_coKzHs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 274/3374 [09:50<2:01:45,  2.36s/it]id:  5f6d29011dc9eff099d89455
+title:  Learning Better Lossless Compression Using Lossy Compression
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/JpXKKKcsnLI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 275/3374 [09:52<1:59:12,  2.31s/it]id:  5f6d29151dc9eff099d89457
+title:  Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/7O7qEJKhrws
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 276/3374 [09:54<1:54:15,  2.21s/it]id:  5f6d291c1dc9eff099d89459
+title:  Multi-Scale Fusion Subspace Clustering Using Similarity Constraint
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/El9KvqFOB1A
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 277/3374 [09:56<1:54:21,  2.22s/it]id:  5f6d29211dc9eff099d8945b
+title:  Siamese Box Adaptive Network for Visual Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/HW61L2GI7Kc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/hqucv/siamban
+save successfully!
+
+  8%|▊         | 278/3374 [09:59<1:59:44,  2.32s/it]id:  5f6d29bf1dc9eff099d8945d
+title:  Online Deep Clustering for Unsupervised Representation Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/BvPZSxfYWxY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 279/3374 [10:01<1:54:36,  2.22s/it]id:  5f6d29c21dc9eff099d8945f
+title:  Density-Aware Feature Embedding for Face Clustering
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/TBValalYu3Y
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 280/3374 [10:03<1:52:59,  2.19s/it]id:  5f6d29c71dc9eff099d89461
+title:  ROAM: Recurrently Optimizing Tracking Model
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/6wBlL0-dJQM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 281/3374 [10:05<1:50:06,  2.14s/it]id:  5f6d29d01dc9eff099d89463
+title:  Deformable Siamese Attention Networks for Visual Object Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/PF2z8bG5COA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 282/3374 [10:07<1:49:25,  2.12s/it]id:  5f6d29d81dc9eff099d89465
+title:  15 Keypoints Is All You Need
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ggFcBVqbJdw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 283/3374 [10:09<1:47:42,  2.09s/it]id:  5f6d29dc1dc9eff099d89467
+title:  Optical Flow in the Dark
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/WbTUeIsB5oE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 284/3374 [10:11<1:47:55,  2.10s/it]id:  5f6d29ea1dc9eff099d89469
+title:  A Unified Object Motion and Affinity Model for Online Multi-Object Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/z7iBQpwjfk8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 285/3374 [10:13<1:47:40,  2.09s/it]id:  5f6d2a141dc9eff099d8946b
+title:  Sub-Frame Appearance and 6D Pose Estimation of Fast Moving Objects
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/lHlTkzfC8Oc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  8%|▊         | 286/3374 [10:15<1:47:26,  2.09s/it]id:  5f6d2a191dc9eff099d8946d
+title:  How to Train Your Deep Multi-Object Tracker
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Tqnmgb270pw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/yihongXU/deepMOT
+save successfully!
+
+  9%|▊         | 287/3374 [10:18<1:48:34,  2.11s/it]id:  5f6d2a1f1dc9eff099d8946f
+title:  TPNet: Trajectory Proposal Network for Motion Prediction
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Bfvy7qby1fg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 288/3374 [10:20<1:47:59,  2.10s/it]id:  5f6d2a2b1dc9eff099d89471
+title:  Large Scale Video Representation Learning via Relational Graph Clustering
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/twLRVRUHLk0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 289/3374 [10:22<1:50:35,  2.15s/it]id:  5f6d2a341dc9eff099d89473
+title:  Towards Universal Representation Learning for Deep Face Recognition
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/fHQfS4F_0Uo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 290/3374 [10:24<1:49:54,  2.14s/it]id:  5f6d2a3e1dc9eff099d89475
+title:  Robust Partial Matching for Person Search in the Wild
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/TUmcvwlMc7E
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 291/3374 [10:26<1:47:35,  2.09s/it]id:  5f6d2a541dc9eff099d89477
+title:  Correlation-Guided Attention for Corner Detection Based Visual Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/GXsiMpAWr4k
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 292/3374 [10:28<1:51:39,  2.17s/it]id:  5f6d2a6a1dc9eff099d89479
+title:  Learning Multi-Object Tracking and Segmentation From Automatic Annotations
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4uURSbXh3SA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 293/3374 [10:30<1:50:14,  2.15s/it]id:  5f6d2a781dc9eff099d8947b
+title:  PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/VQzrQeEHzSw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 294/3374 [10:33<1:50:20,  2.15s/it]id:  5f6d2a821dc9eff099d8947d
+title:  Rotation Consistent Margin Loss for Efficient Low-Bit Face Recognition
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/10VZJKRNlrU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▊         | 295/3374 [10:35<1:49:45,  2.14s/it]id:  5f6d2a861dc9eff099d8947f
+title:  Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/8whrXosgnDA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 296/3374 [10:37<1:52:37,  2.20s/it]id:  5f6d2a8b1dc9eff099d89481
+title:  Unity Style Transfer for Person Re-Identification
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ep_Fe5jyWA8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 297/3374 [10:39<1:49:48,  2.14s/it]id:  5f6d2a901dc9eff099d89483
+title:  Suppressing Uncertainties for Large-Scale Facial Expression Recognition
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/wFi66grYHIY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 298/3374 [10:41<1:51:07,  2.17s/it]id:  5f6d2a931dc9eff099d89485
+title:  Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4ZU-mWFX-OI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 299/3374 [10:43<1:50:26,  2.16s/it]id:  5f6d2a971dc9eff099d89487
+title:  Regularizing Neural Networks via Minimizing Hyperspherical Energy
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/BzzgFvOf4LI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 300/3374 [10:45<1:48:34,  2.12s/it]id:  5f6d2a9b1dc9eff099d89489
+title:  Learning Representations by Predicting Bags of Visual Words
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/hpachmQKrKU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 301/3374 [10:48<1:51:27,  2.18s/it]id:  5f6d2aa01dc9eff099d8948b
+title:  A Transductive Approach for Video Object Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/W3aeT5oJGDU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/
+save successfully!
+
+  9%|▉         | 302/3374 [10:50<1:50:23,  2.16s/it]id:  5f6d2aa41dc9eff099d8948d
+title:  Dynamic Face Video Segmentation via Reinforcement Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/w3jrUHhGRr4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 303/3374 [10:52<1:49:11,  2.13s/it]id:  5f6d2aa81dc9eff099d8948f
+title:  Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/GvFkgqRpVEY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 304/3374 [10:54<1:48:36,  2.12s/it]id:  5f6d2aae1dc9eff099d89491
+title:  Semantic Drift Compensation for Class-Incremental Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/7PwR--P2T4U
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 305/3374 [10:56<1:46:39,  2.09s/it]id:  5f6d2ab21dc9eff099d89493
+title:  Context-Aware Human Motion Prediction
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/NiKKa4ory8s
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 306/3374 [10:58<1:47:30,  2.10s/it]id:  5f6d2ab71dc9eff099d89495
+title:  DeepDeform: Learning Non-Rigid RGB-D Reconstruction With Semi-Supervised Data
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/aoCTS0-kYZc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 307/3374 [11:00<1:46:05,  2.08s/it]id:  5f6d2abb1dc9eff099d89497
+title:  Optical Non-Line-of-Sight Physics-Based 3D Human Pose Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MvMJIcZbbXk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 308/3374 [11:02<1:46:14,  2.08s/it]id:  5f6d2ad01dc9eff099d89499
+title:  Learning to Transfer Texture From Clothing Images to 3D Humans
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/HTdSbjdt1Jw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 309/3374 [11:04<1:45:48,  2.07s/it]id:  5f6d2aea1dc9eff099d8949b
+title:  UniPose: Unified Human Pose Estimation in Single Images and Videos
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Y2LSp6_2ayk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 310/3374 [11:07<1:58:01,  2.31s/it]id:  5f6d2b071dc9eff099d8949d
+title:  3D Human Mesh Regression With Dense Correspondence
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/eXTsXTyiHag
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 311/3374 [11:09<1:54:42,  2.25s/it]id:  5f6d2b0d1dc9eff099d8949f
+title:  Cross-Modal Pattern-Propagation for RGB-T Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MHb_xYw4Ms8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 312/3374 [11:12<1:56:07,  2.28s/it]id:  5f6d2b191dc9eff099d894a1
+title:  Distilling Knowledge From Graph Convolutional Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Z8449LfOzHM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 313/3374 [11:14<1:53:03,  2.22s/it]id:  5f6d2b221dc9eff099d894a3
+title:  Learning Identity-Invariant Motion Representations for Cross-ID Face Reenactment
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/5NYI_ncWvnI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 314/3374 [11:16<1:49:57,  2.16s/it]id:  5f6d2b281dc9eff099d894a5
+title:  Distribution-Aware Coordinate Representation for Human Pose Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/bpElo2R3Ois
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 315/3374 [11:18<1:49:51,  2.15s/it]id:  5f6d2b2c1dc9eff099d894a7
+title:  Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/prb6WnR830k
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 316/3374 [11:20<1:49:21,  2.15s/it]id:  5f6d2b301dc9eff099d894a9
+title:  HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation From a Single Depth Map
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MFhNBTUkxvY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 317/3374 [11:23<1:58:37,  2.33s/it]id:  5f6d2b341dc9eff099d894ab
+title:  Determinant Regularization for Gradient-Efficient Graph Matching
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/b9S7h35Iaz4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 318/3374 [11:25<1:59:13,  2.34s/it]id:  5f6d2b391dc9eff099d894ad
+title:  D3S – A Discriminative Single Shot Segmentation Tracker
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/OHJzCpo2sgA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 319/3374 [11:27<1:54:58,  2.26s/it]id:  5f6d2b781dc9eff099d894af
+title:  MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/1JZ1eLzNCG0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+  9%|▉         | 320/3374 [11:29<1:53:05,  2.22s/it]id:  5f6d2b921dc9eff099d894b1
+title:  End-to-End Model-Free Reinforcement Learning for Urban Driving Using Implicit Affordances
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/hfEos9HpgBA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 321/3374 [11:32<1:54:21,  2.25s/it]id:  5f6d2b9b1dc9eff099d894b5
+title:  Probabilistic Regression for Visual Tracking
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/pffQL9EXrQw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/visionml/pytracking
+save successfully!
+
+ 10%|▉         | 322/3374 [11:34<1:51:09,  2.19s/it]id:  5f6d2baa1dc9eff099d894b7
+title:  3DRegNet: A Deep Neural Network for 3D Point Registration
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/rEY6KwhmXro
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 323/3374 [11:36<1:54:35,  2.25s/it]id:  5f6d2bc31dc9eff099d894bb
+title:  Three-Dimensional Reconstruction of Human Interactions
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/p7Uga15YoFc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 324/3374 [11:38<1:53:59,  2.24s/it]id:  5f6d2bd21dc9eff099d894bd
+title:  Distribution-Induced Bidirectional Generative Adversarial Network for Graph Representation Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/u1AD5BulZrs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 325/3374 [11:42<2:08:12,  2.52s/it]id:  5f6d2be71dc9eff099d894bf
+title:  Minimal Solvers for 3D Scan Alignment With Pairs of Intersecting Lines
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/S7pHl7JKxFI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 326/3374 [11:44<2:01:05,  2.38s/it]id:  5f6d2bf51dc9eff099d894c1
+title:  Wavelet Integrated CNNs for Noise-Robust Image Classification
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/FbiiEXzyNx0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 327/3374 [11:46<2:06:58,  2.50s/it]id:  5f6d2c031dc9eff099d894c3
+title:  Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/EjCcR3O5wp4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 328/3374 [11:49<2:01:54,  2.40s/it]id:  5f6d2c091dc9eff099d894c5
+title:  PropagationNet: Propagate Points to Curve to Learn Structure Information
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ykTjSLOIPRc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 329/3374 [11:51<1:58:25,  2.33s/it]id:  5f6d2c0f1dc9eff099d894c7
+title:  Sequential 3D Human Pose and Shape Estimation From Point Clouds
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Sbj4wohwDyw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 330/3374 [11:53<1:54:42,  2.26s/it]id:  5f6d2c231dc9eff099d894c9
+title:  Improving the Robustness of Capsule Networks to Image Affine Transformations
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/yVyEI9310QI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 331/3374 [11:55<1:52:28,  2.22s/it]id:  5f6e497b1dc9eff099d89559
+title:  Reverse Perspective Network for Perspective-Aware Object Counting
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/_CGOYCiAkj4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 332/3374 [11:57<1:51:37,  2.20s/it]id:  5f6e49781dc9eff099d89557
+title:  Structure Preserving Generative Cross-Domain Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/WOVW1AoJGn8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 333/3374 [11:59<1:53:58,  2.25s/it]id:  5f6e49741dc9eff099d89555
+title:  Inflated Episodic Memory With Region Self-Attention for Long-Tailed Visual Recognition
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/UHVXOjaos3s
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 334/3374 [12:02<1:57:44,  2.32s/it]id:  5f6e49701dc9eff099d89553
+title:  Cross-Domain Semantic Segmentation via Domain-Invariant Interactive Relation Transfer
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/L57s4Xaad24
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 335/3374 [12:04<1:54:19,  2.26s/it]id:  5f6e496d1dc9eff099d89551
+title:  ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/jGG5Q8S1Rus
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 336/3374 [12:06<1:51:04,  2.19s/it]id:  5f6e49691dc9eff099d8954f
+title:  FOAL: Fast Online Adaptive Learning for Cardiac Motion Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/GohVnm5_xuc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|▉         | 337/3374 [12:08<1:49:02,  2.15s/it]id:  5f6e49651dc9eff099d8954d
+title:  Rotation Equivariant Graph Convolutional Network for Spherical Image Classification
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/E9KhudotR54
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 338/3374 [12:11<1:57:35,  2.32s/it]id:  5f6e49611dc9eff099d8954b
+title:  FPConv: Learning Local Flattening for Point Convolution
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Ym4gPIeV_uY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 339/3374 [12:13<1:57:18,  2.32s/it]id:  5f6e495d1dc9eff099d89549
+title:  Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/3ulix8rfBhY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 340/3374 [12:15<1:52:32,  2.23s/it]id:  5f6e49591dc9eff099d89547
+title:  DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction With Deep T1 Prior
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0fbHXV-ZmKY
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 341/3374 [12:17<1:52:05,  2.22s/it]id:  5f6e49541dc9eff099d89545
+title:  Cascaded Human-Object Interaction Recognition
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/qwqi3rxMdNU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 342/3374 [12:20<1:52:49,  2.23s/it]id:  5f6e494c1dc9eff099d89543
+title:  Single-Stage Semantic Segmentation From Image Labels
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4ujtDrKsge8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 343/3374 [12:22<1:49:18,  2.16s/it]id:  5f6e49481dc9eff099d89541
+title:  Composing Good Shots by Exploiting Mutual Relations
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/RsPCJgH0eT4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 344/3374 [12:24<1:48:06,  2.14s/it]id:  5f6e49431dc9eff099d8953f
+title:  Composing Good Shots by Exploiting Mutual Relations
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/RsPCJgH0eT4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+
+ 10%|█         | 345/3374 [12:26<1:46:16,  2.11s/it]id:  5f6e49401dc9eff099d8953d
+title:  Graph-Guided Architecture Search for Real-Time Semantic Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/YdcVsGyJxDU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 346/3374 [12:28<1:49:34,  2.17s/it]id:  5f6e490e1dc9eff099d89539
+title:  Uninformed Students: Student-Teacher Anomaly Detection With Discriminative Latent Embeddings
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/pozNR-dgzOM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 347/3374 [12:30<1:48:46,  2.16s/it]id:  5f6e49091dc9eff099d89537
+title:  Shoestring: Graph-Based Semi-Supervised Classification With Severely Limited Labeled Data
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/gwy92d6IO1Q
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 348/3374 [12:32<1:49:55,  2.18s/it]id:  5f6e49041dc9eff099d89535
+title:  Stochastic Sparse Subspace Clustering
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4C-X5IYo5og
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 349/3374 [12:34<1:48:07,  2.14s/it]id:  5f6e48ff1dc9eff099d89533
+title:  CRNet: Cross-Reference Networks for Few-Shot Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/uwiu3uMzgDk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 350/3374 [12:36<1:45:34,  2.09s/it]id:  5f6e48ef1dc9eff099d89531
+title:  Adaptive Subspaces for Few-Shot Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/A6dVu5wjSAk
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/chrysts/dsn_fewshot
+save successfully!
+
+ 10%|█         | 351/3374 [12:38<1:43:27,  2.05s/it]id:  5f6e48ec1dc9eff099d8952f
+title:  C2FNAS: Coarse-to-Fine Neural Architecture Search for 3D Medical Image Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/fonR1Q5tvDU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 352/3374 [12:41<1:44:03,  2.07s/it]id:  5f6e48e71dc9eff099d8952d
+title:  Learning Human-Object Interaction Detection Using Interaction Points
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/RvmePEvKLqM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/vaesl/IP-Net
+save successfully!
+
+ 10%|█         | 353/3374 [12:43<1:44:54,  2.08s/it]id:  5f6e48e41dc9eff099d8952b
+title:  When2com: Multi-Agent Perception via Communication Graph Grouping
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/JVxXpAifwQA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 10%|█         | 354/3374 [12:45<1:46:12,  2.11s/it]id:  5f6e48e11dc9eff099d89529
+title:  FDA: Fourier Domain Adaptation for Semantic Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MyQPj5DATc4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 355/3374 [12:47<1:45:31,  2.10s/it]id:  5f6e48de1dc9eff099d89527
+title:  Where Am I Looking At? Joint Location and Orientation Estimation by Cross-View Matching
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/m1XIkhS1I54
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 356/3374 [12:49<1:44:16,  2.07s/it]id:  5f6e48d91dc9eff099d89525
+title:  Deep Grouping Model for Unified Perceptual Parsing
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/SNUXzu-K1F8
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 357/3374 [12:51<1:48:32,  2.16s/it]id:  5f6e48d61dc9eff099d89523
+title:  Unsupervised Domain Adaptation With Hierarchical Gradient Synchronization
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/MuNjRD3vvtM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 358/3374 [12:53<1:46:24,  2.12s/it]id:  5f6e48d21dc9eff099d89521
+title:  What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic Lesions Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/DDV8X_z6Aac
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 359/3374 [12:56<1:47:49,  2.15s/it]id:  5f6e48cf1dc9eff099d8951f
+title:  Few-Shot Object Detection With Attention-RPN and Multi-Relation Detector
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/weguXB5r5F4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/fanq15/Few-Shot-Object-Detection-Dataset
+save successfully!
+
+ 11%|█         | 360/3374 [12:58<1:46:12,  2.11s/it]id:  5f6e48cb1dc9eff099d8951d
+title:  Strip Pooling: Rethinking Spatial Pooling for Scene Parsing
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/BWjOqrcWjhc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/Andrew-Qibin/SPNet
+save successfully!
+
+ 11%|█         | 361/3374 [13:00<1:45:48,  2.11s/it]id:  5f6e48c71dc9eff099d8951b
+title:  Variational Context-Deformable ConvNets for Indoor Scene Parsing
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/LDB_mzHUqtg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 362/3374 [13:02<1:44:55,  2.09s/it]id:  5f6e48c41dc9eff099d89519
+title:  Two-Shot Spatially-Varying BRDF and Shape Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/aAXVZUWdsu0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 363/3374 [13:04<1:50:42,  2.21s/it]id:  5f6e48bf1dc9eff099d89517
+title:  Self-Supervised Viewpoint Learning From Image Collections
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/u0UWlkfZZDs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/NVlabs/SSV
+save successfully!
+
+ 11%|█         | 364/3374 [13:07<1:53:26,  2.26s/it]id:  5f6e48bc1dc9eff099d89515
+title:  Learning 3D Semantic Scene Graphs From 3D Indoor Reconstructions
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Z7THFA1ies0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 365/3374 [13:09<1:51:57,  2.23s/it]id:  5f6e48b81dc9eff099d89513
+title:  FocalMix: Semi-Supervised Learning for 3D Medical Image Detection
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/BS18BxnWfys
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 366/3374 [13:11<1:49:03,  2.18s/it]id:  5f6d2e7e1dc9eff099d894e7
+title:  Dataless Model Selection With the Deep Frame Potential
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/M-VxdFPPgyA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 367/3374 [13:13<1:51:08,  2.22s/it]id:  5f6d2e441dc9eff099d894e5
+title:  Dynamic Refinement Network for Oriented and Densely Packed Object Detection
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/HxV3ZxSjvwc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 368/3374 [13:15<1:48:11,  2.16s/it]id:  5f6d2d7b1dc9eff099d894e3
+title:  Knowledge As Priors: Cross-Modal Knowledge Generalization for Datasets Without Superior Knowledge
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/L7YB86Pcd6c
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 369/3374 [13:18<1:55:45,  2.31s/it]id:  5f6d2d681dc9eff099d894e1
+title:  GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Enco...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/kQgRaClbdvc
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/gyshgx868/graph-ter
+save successfully!
+
+ 11%|█         | 370/3374 [13:20<1:54:58,  2.30s/it]id:  5f6d2d591dc9eff099d894df
+title:  Minimal Solutions to Relative Pose Estimation From Two Views Sharing a Common Direction With Unkn...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/JwH1kX3TiCg
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 371/3374 [13:22<1:55:15,  2.30s/it]id:  5f6d2d191dc9eff099d894dd
+title:  Sketch-BERT: Learning Sketch Bidirectional Encoder Representation From Transformers by Self-Super...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/-Rrx761syWo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 372/3374 [13:24<1:52:27,  2.25s/it]id:  5f6d2cfb1dc9eff099d894db
+title:  Cross-Domain Face Presentation Attack Detection via Multi-Domain Disentangled Representation Lear...
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Yp8eyp8s4Ns
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 373/3374 [13:29<2:23:00,  2.86s/it]id:  5f6d2cae1dc9eff099d894d7
+title:  Same Features, Different Day: Weakly Supervised Feature Learning for Seasonal Invariance
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/lD8jh--0T-Y
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/jspenmar/DejaVu_Features
+save successfully!
+
+ 11%|█         | 374/3374 [13:36<3:25:22,  4.11s/it]id:  5f6d2ca81dc9eff099d894d5
+title:  How Useful Is Self-Supervised Pretraining for Visual Tasks?
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/SDnscGs6e0k
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://www.github.com/princeton-vl/selfstudy
+save successfully!
+
+ 11%|█         | 375/3374 [13:38<2:55:53,  3.52s/it]id:  5f6d2ca31dc9eff099d894d3
+title:  Hierarchically Robust Representation Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/4GvRqks5Oqs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 376/3374 [13:40<2:37:32,  3.15s/it]id:  5f6d2c801dc9eff099d894d1
+title:  P–nets: Deep Polynomial Neural Networks
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/5HmFSoU2cOw
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 377/3374 [13:43<2:30:31,  3.01s/it]id:  5f6d2c591dc9eff099d894cf
+title:  Unsupervised Representation Learning for Gaze Estimation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/qQNU5WEt3Es
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 378/3374 [13:45<2:19:02,  2.78s/it]id:  5f6d2c4e1dc9eff099d894cd
+title:  Quaternion Product Units for Deep Learning on 3D Rotation Groups
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/x_Wj9KvyIrs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█         | 379/3374 [13:47<2:11:26,  2.63s/it]id:  5f6d2c371dc9eff099d894cb
+title:  Noise Modeling, Synthesis and Classification for Generic Object Anti-Spoofing
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/aDoA2u-hjRo
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 380/3374 [13:50<2:02:59,  2.46s/it]id:  5f6e49801dc9eff099d8955b
+title:  Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/V87_y6dPyRQ
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 381/3374 [13:52<1:59:41,  2.40s/it]id:  5f6e49c91dc9eff099d8955d
+title:  Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/KYzDgcYH6xM
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 382/3374 [13:54<2:02:24,  2.45s/it]id:  5f6e49d71dc9eff099d8955f
+title:  ImVoteNet: Boosting 3D Object Detection in Point Clouds With Image Votes
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/xCnbvgMAg-Y
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 383/3374 [13:57<1:59:05,  2.39s/it]id:  5f6e49e01dc9eff099d89561
+title:  Understanding Road Layout From Videos as a Whole
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/BQo11Nphb-k
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 384/3374 [13:59<1:55:13,  2.31s/it]id:  5f6e49e71dc9eff099d89563
+title:  Bi-Directional Relationship Inferring Network for Referring Image Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/0wh5XXdKUBI
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 385/3374 [14:01<1:53:39,  2.28s/it]id:  5f6e49ed1dc9eff099d89565
+title:  Perspective Plane Program Induction From a Single Image
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/I7Z8VXotbUU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 386/3374 [14:03<1:56:41,  2.34s/it]id:  5f6e49f71dc9eff099d89567
+title:  Semi-Supervised Learning for Few-Shot Image-to-Image Translation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/omufBCQGqJs
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  https://github.com/yaxingwang/SEMIT
+save successfully!
+
+ 11%|█▏        | 387/3374 [14:06<2:02:48,  2.47s/it]id:  5f6e4a0d1dc9eff099d89569
+title:  DeepFLASH: An Efficient Network for Learning-Based Medical Image Registration
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/QAIVcdnB0v4
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 11%|█▏        | 388/3374 [14:10<2:20:34,  2.82s/it]id:  5f6e4a151dc9eff099d8956b
+title:  Semantic Correspondence as an Optimal Transport Problem
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/azqIxYOjLDE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 389/3374 [14:12<2:15:14,  2.72s/it]id:  5f6e4a611dc9eff099d8956d
+title:  How Much Time Do You Have? Modeling Multi-Duration Saliency
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/S1m9c9ql75M
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 390/3374 [14:14<2:06:39,  2.55s/it]id:  5f6e4a6b1dc9eff099d8956f
+title:  Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/Lq03ZdB6DXE
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 391/3374 [14:17<2:01:47,  2.45s/it]id:  5f6e4a701dc9eff099d89571
+title:  Online Depth Learning Against Forgetting in Monocular Videos
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/1rzMB8tncUU
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 392/3374 [14:19<1:59:05,  2.40s/it]id:  5f6e4a991dc9eff099d89573
+title:  Few-Shot Learning of Part-Specific Probability Space for 3D Shape Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/oWbHimeNtQA
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 393/3374 [14:21<1:56:17,  2.34s/it]id:  5f6e4aac1dc9eff099d89575
+title:  Pattern-Structure Diffusion for Multi-Task Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/pIhN-h0PaG0
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 394/3374 [14:24<1:58:17,  2.38s/it]id:  5f6e4ab31dc9eff099d89577
+title:  Training Noise-Robust Deep Neural Networks via Meta-Learning
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/5Pv0BKqtD5M
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 395/3374 [14:26<1:58:36,  2.39s/it]id:  5f6e4ac41dc9eff099d89579
+title:  Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation
+authors:  ComputerVisionFoundation Videos
+abstract:  
+year:  2020
+publicationOrg:  CVPR
+pdfurl:  
+pdfPath:  
+videoUrl:  https://www.youtube.com/embed/ePfwuFtvB10
+videoPath:  
+datasetUrl:  
+publicationUrl:  
+codeurl:  
+save successfully!
+
+ 12%|█▏        | 396/3374 [14:28<1:59:13,  2.40s/it]
+ 

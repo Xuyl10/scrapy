@@ -8,8 +8,6 @@ from tqdm import tqdm
 class crossminds_scrapy:
     def get_content(self, url):
         try:
-            response = requests.get(url)
-
             response = requests.get(
                 url, headers={'User-Agent': crossminds_config.user_agent})
             response.raise_for_status()  # 如果返回的状态码不是200， 则抛出异常;

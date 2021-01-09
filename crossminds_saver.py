@@ -6,7 +6,7 @@ class crossminds_saver:
     def __init__(self):
         super().__init__()
         self.database = crossminds_config.db
-        self.collection = "justfortest1"
+        self.collection = "crossmindspaper"
         self.connection = pymongo.MongoClient(
             host=crossminds_config.host,
             port=crossminds_config.port,

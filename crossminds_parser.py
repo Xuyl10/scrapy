@@ -57,7 +57,7 @@ class crossminds_parser:
             string)
         # print("urls: ", urls)
         for url in urls:
-            if "github" in url:
+            if "github.com" in url:
                 rawcodeurl = url
             if "arxiv.org" in url:
                 rawpdfurl = url
@@ -100,10 +100,21 @@ class crossminds_parser:
         if "aclweb.org" in rawpdfurl:
             pdfurl = rawpdfurl[:-1] + ".pdf"
         codeurl = rawcodeurl
-        return pdfurl, codeurl
+        return rawpdfurl, pdfurl, codeurl
 
-    def parse_abstract(self, item):
-        # 预计从description中解析，先判断有无abstract字样，有的话根据回车提取？maybe
+    def parse_abstractfromrawpdf(self, item, rawpdfurl):
+        if '/arxiv.org/abs' in rawpdfurl:
+            # 如果返回的pdfurl是arxiv的，可以从arxiv中解析abstract
+            abstract = ''
+            result = crossminds_scrapy().get_content(rawpdfurl).decode()
+            soup = BeautifulSoup(result, 'lxml')
+            blockquotes = soup.find('blockquote', class_="abstract mathjax")
+            if blockquotes is not None:
+                abstract = blockquotes.content[2]
+            return abstract
+
+    def parse_abstractfromcurpage(self, item):
+        # 从当前paper的description中解析，先判断有无abstract字样，有的话根据回车提取？
         description = item["description"]
         # print(description)
         abstract = ''
@@ -122,6 +133,19 @@ class crossminds_parser:
         else:
             return abstract
 
+    def parse_abstract(self, item, rawpdfurl):
+        abstract = ''
+        try:
+            abstract = self.parse_abstractfromrawpdf(item, rawpdfurl)
+        except Exception:
+            print("parse_abstractfromrawpdf error")
+        if abstract == '' or abstract is None:
+            try:
+                abstract = self.parse_abstractfromcurpage(item)
+            except Exception:
+                print("parse_abstractfromcurpage error")
+        return abstract
+
     def parser(self, items):
         json_results = []
         for i in range(len(items)):
@@ -134,11 +158,11 @@ class crossminds_parser:
             year = item["created_at"][0:4]
             publicationorg = self.parse_publicationorg(item)
             authors = self.parse_author(item)
-            pdfurl, codeurl = self.parse_url(item)
+            rawpdfurl, pdfurl, codeurl = self.parse_url(item)
             dataseturl = ''
             videopath = ''
             pdfpath = ''
-            abstract = self.parse_abstract(item)
+            abstract = self.parse_abstract(item, rawpdfurl)
             publicationurl = ''
             _id = item["_id"]
 
@@ -172,4 +196,4 @@ class crossminds_parser:
             print("publicationUrl: ", publicationurl)
             print("codeurl: ", codeurl)
 
-            crossminds_saver().save_paperinfo(paperinfo)
+            # crossminds_saver().save_paperinfo(paperinfo)
