@@ -13,3 +13,9 @@ crossminds_scrapy.py
 
 crossminds_saver.py
 存数据库、重复判断
+
+
+
+todo：只按会议取了论文，还可以按类别取，后续优化部分maybe可以按这种方式爬
+
+
