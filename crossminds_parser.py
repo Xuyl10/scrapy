@@ -108,7 +108,7 @@ class crossminds_parser:
         # 处理得到的url
         pdfurl = ''
         codeurl = ''
-        if "arxiv.org" in rawpdfurl:
+        if "arxiv.org/abs/" in rawpdfurl:
             pdfurl = rawpdfurl.replace('abs', 'pdf') + '.pdf'
         if "aclweb.org" in rawpdfurl:
             pdfurl = rawpdfurl[:-1] + ".pdf"
