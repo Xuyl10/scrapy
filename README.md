@@ -31,12 +31,12 @@ pip install pytube
 
 3、解析每个论文的json数据  
 着重说明以下几个字段的解析
-- pdfurl字段
-```
+- pdfurl字段  
+
 由于crossminds给到的paperurl并不统一，有些是用paperlink做了链接，而有些直接写在了一篇paper对应的description中，所以这里采用两种方式解析：
 - 每片paper对应的json文件中都有对应的_id，而它所对应的展示页面对应于https://crossminds.ai/video/_id，通过使用beautifulsoup可以解析对应的页面中的paperlink
 - 如果页面中没有paperlink链接，则去相应的description中使用正则表达式找到pdf的地址，并做相应的替换，便于后续下载pdf使用
-```
+
 - abstract字段
 ```
 - crossminds中paper的description部分包含abstract，有些会明确指出有abstract，对于这种我们用正则表达式提取出abstract部分
