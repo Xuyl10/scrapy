@@ -49,7 +49,11 @@ pip install json
 - 对于爬到了pdfurl的paper，比如arxiv网站的url，则用beautifulsoup解析arxiv中论文主页的作者
 ```
 4、数据的存储，使用pymongo存储到了mongodb数据库中  
-5、视频和pdf的下载，将视频和PDF文件下载到本地，将存储路径存到mongodb数据库中
+5、视频和pdf的下载，将视频和PDF文件下载到本地，将存储路径存到mongoDB数据库中
 
+# 整体流程
+视频的下载使用到了一些第三方工具。CrossMinds 中的视频主要由三个来源，分别为 CrossMinds 自身、Youtube 和 Videmo。不同来源对应的下载方式不同。
+CrossMinds 自身提供的视频为 m3u8 格式，因此这里使用 FFmpeg 进行下载
+Youtube 和 Videmo 上的视频使用 you-get 进行全自动的解析和下载
 
 
