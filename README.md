@@ -25,9 +25,9 @@ pip install pymongo
 ## 整体流程
 1、首先通过 https://api.crossminds.io/web/node/interest-list?offset=0&limit=10 接口获得crossminds中按Knowledge Area分的十个类别
 
-2、通过 https://api.crossminds.io/web/node/video/name/{category}?limit=1500&offset=0 从各个类别中获取相应的论文的json数据，category为第1步中获取到的类别（由于在网站中可以直接看到每个类别的item数量，最大为1471，所以这里的limit先设置为了1500
+2、通过 https://api.crossminds.io/web/node/video/name/{category}?limit=1500&offset=0 从各个类别中获取相应的论文的json数据，category为第1步中获取到的类别（由于在网站中可以直接看到每个类别的item数量，最大为1471，所以这里的limit先设置为了1500）
 
-3、解析每个论文的json数据
+3、解析每个论文的json数据  
 着重说明以下几个字段的解析
 - pdfurl字段
 ```
