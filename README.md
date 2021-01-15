@@ -33,20 +33,20 @@ pip install pytube
 着重说明以下几个字段的解析
 - pdfurl字段  
 
-由于crossminds给到的paperurl并不统一，有些是用paperlink做了链接，而有些直接写在了一篇paper对应的description中，所以这里采用两种方式解析：
-- 每片paper对应的json文件中都有对应的_id，而它所对应的展示页面对应于https://crossminds.ai/video/_id，通过使用beautifulsoup可以解析对应的页面中的paperlink
-- 如果页面中没有paperlink链接，则去相应的description中使用正则表达式找到pdf的地址，并做相应的替换，便于后续下载pdf使用
+由于crossminds给到的paperurl并不统一，有些是用paperlink做了链接，而有些直接写在了一篇paper对应的description中，所以这里采用两种方式解析：  
+每片paper对应的json文件中都有对应的_id，而它所对应的展示页面对应于https://crossminds.ai/video/_id  通过使用beautifulsoup可以解析对应的页面中的paperlink  
+如果页面中没有paperlink链接，则去相应的description中使用正则表达式找到pdf的地址，并做相应的替换，便于后续下载pdf使用  
 
-- abstract字段
-```
-- crossminds中paper的description部分包含abstract，有些会明确指出有abstract，对于这种我们用正则表达式提取出abstract部分
-- 如果没有且之前爬到了对应的pdfurl，比如arxiv网站的url，则用beautifulsoup解析arxiv中论文主页的摘要
-```
-- authors字段
-```
-- crossminds中paper的json数据中有authors字段，但很多的上传者都是“computor vision”此类，对于没有pdfurl的paper，我们直接使用该字段
-- 对于爬到了pdfurl的paper，比如arxiv网站的url，则用beautifulsoup解析arxiv中论文主页的作者
-```
+- abstract字段  
+
+crossminds中paper的description部分包含abstract，有些会明确指出有abstract，对于这种我们用正则表达式提取出abstract部分  
+如果没有且之前爬到了对应的pdfurl，比如arxiv网站的url，则用beautifulsoup解析arxiv中论文主页的摘要
+
+- authors字段  
+
+crossminds中paper的json数据中有authors字段，但很多的上传者都是“computor vision”此类，对于没有pdfurl的paper，我们直接使用该字段  
+对于爬到了pdfurl的paper，比如arxiv网站的url，则用beautifulsoup解析arxiv中论文主页的作者  
+
 4、数据的存储，使用pymongo存储到了mongodb数据库中  
 5、视频和PDF的下载。将视频和PDF文件下载到本地，将存储路径存到mongoDB数据库中。
 
