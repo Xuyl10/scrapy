@@ -22,7 +22,6 @@ pip install beautifulsoup4
 pip install lxml
 pip install pymongo
 pip install pytube
-pip install json
 ```
 
 ## 整体流程
@@ -51,9 +50,13 @@ pip install json
 4、数据的存储，使用pymongo存储到了mongodb数据库中  
 5、视频和PDF的下载。将视频和PDF文件下载到本地，将存储路径存到mongoDB数据库中。
 
-- 视频下载
-视频的下载使用到了一些第三方工具。CrossMinds网站中的视频主要来自于CrossMinds、Youtube 和 Vimeos三个网站，不同网站根据其存储视频文件不同采用不同的下载方式。
-+ CrossMinds 自身提供的视频为 m3u8 格式，因此这里使用 FFmpeg 进行下载
-Youtube 和 Videmo 上的视频使用 you-get 进行全自动的解析和下载
+- 视频下载。CrossMinds网站中的视频主要来自于CrossMinds、Youtube 和 Vimeos三个网站，根据其存储视频文件不同采用不同的下载方式。
+```
+- 来自CrossMinds网站的视频URL例如：，视频为m3u8格式，首先将m3u8文件下载下来，m3u8文件主要以文件列表的形式存在，根据其中记录的索引可以找到多个分段的ts格式的音视频文件，将这些分段的音视频文件下载下来，最后合并成一个完整的ts格式的视频。
+- 来自Vimeo网站的视频URL例如：，对此url的内容进行解析，得到视频的相关信息包括文件名，分辨率，实际的下载地址等信息，选择最低分辨率对应的视频文件进行下载。
+- 来自Youtube网站的视频URL例如：  ，使用第三方工具pytube可以直接对此类URL进行下载。
+```
+- PDF文件下载。PDF文件和视频的文件名在存储时都需要都标题进行处理，去掉文件名非法字符。
+
 
 
