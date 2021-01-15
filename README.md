@@ -21,6 +21,8 @@ pip install requests
 pip install beautifulsoup4
 pip install lxml
 pip install pymongo
+pip install pytube
+pip install json
 ```
 
 ## 整体流程
@@ -47,7 +49,7 @@ pip install pymongo
 - 对于爬到了pdfurl的paper，比如arxiv网站的url，则用beautifulsoup解析arxiv中论文主页的作者
 ```
 4、数据的存储，使用pymongo存储到了mongodb数据库中  
-5、视频和pdf的下载
+5、视频和pdf的下载，将视频和PDF文件下载到本地，将存储路径存到mongodb数据库中
 
 
 
