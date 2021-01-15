@@ -2,7 +2,7 @@
 
 ## 目录结构
 │  README.md   
-├─crossminds  
+│--crossminds  
 │     crossminds_config.py  参数设置  
 │     crossminds_parser.py  解析对应的论文的各个字段  
 │     crossminds_scrapy.py  按会议类别取论文  
