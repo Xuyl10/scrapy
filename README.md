@@ -1,13 +1,13 @@
 # scrapy
 
 ## 目录结构
-│  README.md    
-├─crossminds
-│     crossminds_config.py  参数设置
-│     crossminds_parser.py  解析对应的论文的各个字段
-│     crossminds_scrapy.py  按会议类别取论文
-│     crossminds_saver.py   存数据库、重复判断
-│     main.py               运行程序的入口
+│  README.md   
+├─crossminds  
+│     crossminds_config.py  参数设置  
+│     crossminds_parser.py  解析对应的论文的各个字段  
+│     crossminds_scrapy.py  按会议类别取论文  
+│     crossminds_saver.py   存数据库、重复判断  
+│     main.py               运行程序的入口  
 │
 
 
