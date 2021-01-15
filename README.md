@@ -45,7 +45,7 @@ pip install pymongo
 - crossminds中paper的json数据中有authors字段，但很多的上传者都是“computor vision”此类，对于没有pdfurl的paper，我们直接使用该字段
 - 对于爬到了pdfurl的paper，比如arxiv网站的url，则用beautifulsoup解析arxiv中论文主页的作者
 ```
-4、数据的存储，使用pymongo存储到了mongodb数据库中
+4、数据的存储，使用pymongo存储到了mongodb数据库中  
 5、视频和pdf的下载
 
 
