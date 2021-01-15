@@ -52,10 +52,9 @@ pip install pytube
 
 - 视频下载。CrossMinds网站中的视频主要来自于CrossMinds、Youtube 和 Vimeo三个网站，根据其存储视频文件不同采用不同的下载方式。
 
-  1.来自CrossMinds网站的视频URL例如：https://stream.crossminds.ai/5fa9d52a8a1378120d965136-1604965683584/hls-5fa9d52a8a1378120d965136.m3u8 ，视频为m3u8格式，m3u8文件主要以文件列表的形式存在，根据其中记录的索引可以找到多个分段的ts格式的音视频文件，将这些分段的音视频文件下载下来，
-  最后合并成一个完整的ts格式的视频。
-  2.来自Vimeo网站的视频URL例如：https://vimeo.com/423554135 ，对此url的内容进行解析，得到视频的相关信息包括文件名，分辨率，实际的下载地址等信息，选择最低分辨率对应的视频文件进行下载。
-  3.来自Youtube网站的视频URL例如：https://www.youtube.com/embed/mo079YBVTzE ，使用第三方工具pytube可以直接对此类URL进行下载。
+  1、来自CrossMinds网站的视频URL例如：https://stream.crossminds.ai/5fa9d52a8a1378120d965136-1604965683584/hls-5fa9d52a8a1378120d965136.m3u8 ，视频为m3u8格式，m3u8文件主要以文件列表的形式存在，根据其中记录的索引可以找到多个分段的ts格式的音视频文件，将这些分段的音视频文件下载下来，最后合并成一个完整的ts格式的视频。
+  2、来自Vimeo网站的视频URL例如：https://vimeo.com/423554135 ，对此url的内容进行解析，得到视频的相关信息包括文件名，分辨率，实际的下载地址等信息，选择最低分辨率对应的视频文件进行下载。
+  3、来自Youtube网站的视频URL例如：https://www.youtube.com/embed/mo079YBVTzE ，使用第三方工具pytube可以直接对此类URL进行下载。
 
   视频下载可以在爬取到一篇论文的基本信息之后就进行，也可以在基本信息都爬完之后，从数据库中获取所有包含视频URL的论文信息，视频文件默认存储在```./data/videos/```路径下
 
